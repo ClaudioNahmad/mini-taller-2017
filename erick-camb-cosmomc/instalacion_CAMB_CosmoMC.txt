@@ -1,0 +1,108 @@
+1) Intructions for installing CAMB (assumming a linux distribution)
+
+*Prerequisites: 
+gfortran compiler (free) or ifort (non-free, but Intel provides free-licenses
+for students. To install CAMB is not mandatory to install ifort, but we do
+need this compiler to install CosmoMC. See below and arXiv:1409.1354v3 for 
+installing ifort.
+
+*Steps:
+i) Go to website of CAMB:
+   http://camb.info/
+
+ii) Select Readme. Once inside go to the "Compiling and running" section and then
+select "Download". Then fill in all the info required, go to your email inbox
+and click on the link provided. If you chose the nov-2016 version, the file to 
+download would be:
+   CAMB-Nov2016.tar.gz  
+
+iii) Move the the tar file to the directory of your election. Then open a terminal, 
+open the directory where you place the tar file and type:
+   tar -xvf CAMB-Nov2016.tar.gz
+You'll see that a new directory has been created. Open this new directory.
+
+iv) Edit the Makefile (with emacs, vi or the editor of your preference). The only
+thing you need to do is to uncomment the compiler and edit the flags. In my case I 
+use ifort. Check the Makefile_CAMB for reference.
+
+v) Compile the code by typing:
+   make 
+After that, you'll see that the executable file "camb" as been created
+
+
+2) Instructions for installing CosmoMC (assumming a linux distribution)
+The installation of CosmoMC is a little bit tricky and I strongly recommend to check
+arXiv:1409.1354v3. Here I provide some comments.
+
+*Steps
+i) Get the ifort compiler (14 or higher). You can ask for a free-license intended to
+students in the web site:
+   https://software.intel.com/en-us/qualify-for-free-software/student
+Select the distribution of your OS, fill in the information required and once again
+go to your email inbox to get the download link. KEEP SAFE THE SERIAL NUMBER. 
+It is not mandatory to install the whole Parallel Studio XE Cluster Edition package;
+the only thing you'll need is the fortran composer file, which is encoded in a file 
+of the form (the name varies according the version you download):
+   l_fcompxe_2015.5.223.tgz
+Follow the steps in arXiv:1409.1354v3/A. Installing Intel@Fortran Compiler. This process
+takes you almost 1hr (most of the time is spent by downloading the compiler) 
+
+ii) Install Open MPI. Once again, check arXiv:1409.1354v3/A. Installing Open MPI. When 
+you execute ./configure check that F77, FC and F90 are pointing to the exact location 
+of ifort. In my case, the exact location of ifort is
+ls /home/ealmaraz/software/intel/l_fcompxe_2015.5.223/composer_xe_2015.5.223/bin/intel64
+
+When I type the ls command within this directory I get:
+
+codecov            gcore-ia   ifort_libFNP.so  libiml_attr.so         map_opts         profmerge          xiar
+codecov_libFNP.so  gdb-ia     inspxe-inject    libintelremotemon.so   mic_extract      proforder          xild
+fortcom            ifort      inspxe-runsc     loopprofileviewer.csh  offload_extract  tselect
+fpp                ifort.cfg  inspxe-wrap      loopprofileviewer.sh   profdcg          tselect_libFNP.so
+
+Here you can see (3th row, 2nd column) that ifort is present.
+
+The process of installing OpenMPI takes you almost 20 minutes
+
+iii) The installation of CFITSIO is optional (depending whether or not you want to use
+WMAP data). If so, check section C of arXiv:1409.1354v3. This process takes you no more
+than 10 minutes
+
+iv) Same for Healpix. If you decide to install it, it takes almost 20 minutes
+
+v) If you want to use WMAP data, check section E. The files you need to edit are
+Makefile and WMAP_9yr_options.F90. You can check my  Makefile_WMAP and
+WMAP_9yr_options.F90 files. This process takes almost 1hr (most of the time is spent by
+downloading the data)
+
+vi) Get the Planck data. Enter the CosmoMC webpage:
+    http://cosmologist.info/cosmomc/
+Click on "Planck readme". Then click on "Planck Legacy Archive" (in the "Using the
+Planck likelihood with CosmoMC" section), then "Likelihood" and download the files
+    COM_Likelihood_Code-v2.0_R2.00.tar.bz2    (the likelihood)
+    COM_Likelihood_Data-baseline_R2.00.tar.gz (the data)
+Follow the instructions of arXiv:1409.1354v3/F. Building Planck Data. Note that 
+the point 5 (where you set the enviroment variables in your bash profile) is outdated.
+Better to follow the webpage instruction
+    source ./bin/clik_profile.sh
+In my case, I appended the next line in my .bashrc file:
+   source /home/ealmaraz/software/planck/PR2_2015/plc-2.0/bin/clik_profile.sh
+This process takes almost 2.hr (guess where you'll spent the most of the time)
+
+
+vii) Finally get the CosmoMC code. Go to the page:
+    http://cosmologist.info/cosmomc/
+click "Readme"->"download" and follow a similar procedure as for CAMB. Check section
+G of arXiv:1409.1354v3. Check also my Makefile_CosmoMC, that is, the Makefile I
+stored in the source directory. This process takes you 15 minutes.
+
+
+That's all. Any doubts feel free to ask me during the workshop or go to the CosmoCoffe
+forum:
+     http://cosmocoffee.info/ 
+
+
+
+
+
+   
+
