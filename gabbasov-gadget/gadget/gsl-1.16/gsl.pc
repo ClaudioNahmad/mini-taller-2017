@@ -1,0 +1,11 @@
+prefix=/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL
+exec_prefix=/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL
+libdir=/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL/lib
+includedir=/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL/include
+GSL_CBLAS_LIB=-lgslcblas
+
+Name: GSL
+Description: GNU Scientific Library
+Version: 1.16
+Libs: -L/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL/lib -lgsl ${GSL_CBLAS_LIB} -lm -lm 
+Cflags: -I/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL/include

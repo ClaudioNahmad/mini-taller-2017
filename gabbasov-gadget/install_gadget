@@ -1,0 +1,104 @@
+se crean las carpetas:
+	minitaller-2017
+	minitaller-2017/GSL
+	minitaller-2017/FFTW
+	minitaller-2017/run
+
+se descargan los archivos en minitaller-2017
+se descomprime todo
+
+
+------------------
+Compilacion de GSL
+------------------
+
+en la carpeta gsl-1.16:
+./configure --prefix=/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL
+make
+make install
+
+-------------------
+Compilacion de FFTW
+-------------------
+
+en la carpeta fft2-2.1.5
+./configure --prefix=/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/FFTW --enable-mpi --enable-float --enable-type-prefix
+make
+make install
+make clean
+./configure --prefix=/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/FFTW --enable-mpi --enable-type-prefix
+make
+make install
+
+-----------------------------
+Preparar la condicion inicial
+-----------------------------
+
+en la carpeta N-GenIC se edita el makefile:
+
+OPT	+=  -DPRODUCEGAS
+SYSTYPE="OpenSuse"
+y se comenta la linea SYSTYPE que está sin comentar
+
+ifeq ($(SYSTYPE),"OpenSuse")
+CC       =  mpicc
+OPTIMIZE =  -Wall
+GSL_INCL =  -I/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL/include 
+GSL_LIBS =  -L/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL/lib
+FFTW_INCL=  -I/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/FFTW/include
+FFTW_LIBS=  -L/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/FFTW/lib
+MPICHLIB =  -L/home/claudio/software/openMPI/2.0.2/lib		
+endif
+
+Ahora se comentan las líneas 218 y 219 del archivo save.c
+
+make
+
+se edita ics.param:
+
+Nsample 64
+OutputDir ./
+Box 50000.0
+Tilefac 2
+OmegaBaryon 0.04
+Redshift 10
+NumFilesWrittenInParallel 1
+
+ERROR: se corrige con http://stackoverflow.com/questions/480764/linux-error-while-loading-shared-libraries-cannot-open-shared-object-file-no-s
+IMPORTANTE: se deben agregar las librerías de GSL al library path:
+
+se edita el archivo .bashrc:
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL/lib
+
+Ahora sí: mpirun -np 4 ./N-GenIC ics.param
+
+debe correr SIN errores
+
+
+------------------------------------
+Compilacion de Gadget
+------------------------------------
+
+en el directorio Gadget-2.0.7/Gadget2 se edita el makefile:
+
+SYSTYPE="MPA" (Mako falló, your computer does not support x86-64 architecture)
+se comenta el otro systype que estaba descomentado
+
+ifeq ($(SYSTYPE),"MPA")
+CC       =  mpicc   # sets the C-compiler
+OPTIMIZE =  -O3 -Wall
+GSL_INCL =  -I/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL/include 
+GSL_LIBS =  -L/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL/lib
+FFTW_INCL=  -I/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/FFTW/include
+FFTW_LIBS=  -L/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/FFTW/lib
+MPICHLIB =  -L/home/claudio/software/openMPI/2.0.2/lib 
+endif
+
+se comenta la línea OPT   +=  -DHAVE_HDF5  
+
+ahora sí, dar make, debe correr SIN errores, los warnings es normal que aparezcan
+
+
+
+

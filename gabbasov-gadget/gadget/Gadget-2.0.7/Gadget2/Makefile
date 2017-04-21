@@ -40,7 +40,7 @@ OPT   +=  -DSYNCHRONIZATION
 
 
 #--------------------------------------- Output 
-OPT   +=  -DHAVE_HDF5  
+#OPT   +=  -DHAVE_HDF5  
 #OPT   +=  -DOUTPUTPOTENTIAL
 #OPT   +=  -DOUTPUTACCELERATION
 #OPT   +=  -DOUTPUTCHANGEOFENTROPY
@@ -86,8 +86,8 @@ MPICHLIB =  -L/home/claudio/software/openMPI/2.0.2/lib
 
 #--------------------------------------- Select target computer
 
-#SYSTYPE="MPA"
-SYSTYPE="Mako"
+SYSTYPE="MPA"
+#SYSTYPE="Mako"
 #SYSTYPE="Regatta"
 #SYSTYPE="RZG_LinuxCluster"
 #SYSTYPE="RZG_LinuxCluster-gcc"
@@ -101,13 +101,15 @@ SYSTYPE="Mako"
 ifeq ($(SYSTYPE),"MPA")
 CC       =  mpicc   
 OPTIMIZE =  -O3 -Wall
-GSL_INCL =  -I/usr/common/pdsoft/include
-GSL_LIBS =  -L/usr/common/pdsoft/lib  -Wl,"-R /usr/common/pdsoft/lib"
-FFTW_INCL= 
-FFTW_LIBS= 
-MPICHLIB =
-HDF5INCL =  
-HDF5LIB  =  -lhdf5 -lz 
+#GSL_INCL =  -I/usr/common/pdsoft/include
+#GSL_LIBS =  -L/usr/common/pdsoft/lib  -Wl,"-R /usr/common/pdsoft/lib"
+GSL_INCL =  -I/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL/include 
+GSL_LIBS =  -L/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL/lib
+FFTW_INCL=  -I/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/FFTW/include
+FFTW_LIBS=  -L/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/FFTW/lib
+MPICHLIB =  -L/home/claudio/software/openMPI/2.0.2/lib
+#HDF5INCL =  
+#HDF5LIB  =  -lhdf5 -lz
 endif
 
 
