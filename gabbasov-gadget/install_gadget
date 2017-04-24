@@ -75,14 +75,13 @@ Ahora sí: mpirun -np 4 ./N-GenIC ics.param
 
 debe correr SIN errores
 
-
 ------------------------------------
 Compilacion de Gadget
 ------------------------------------
 
 en el directorio Gadget-2.0.7/Gadget2 se edita el makefile:
 
-SYSTYPE="MPA" (Mako falló, your computer does not support x86-64 architecture)
+SYSTYPE="MPA" (SYSTYPE="MAKO" falló, your computer does not support x86-64 architecture)
 se comenta el otro systype que estaba descomentado
 
 ifeq ($(SYSTYPE),"MPA")
@@ -99,6 +98,77 @@ se comenta la línea OPT   +=  -DHAVE_HDF5
 
 ahora sí, dar make, debe correr SIN errores, los warnings es normal que aparezcan
 
+ahora se copian ciertos archivos a la carpeta run:
 
+cp Gadget2 ../../run/
+cp parameterfiles/lcdm_gas.param ../../run/
+cp parameterfiles/outputs_lcdm_gas.txt ../../run/
+
+nos movemos al directorio /run y editamos lcdm_gas.param:
+
+InitCondFile  	   ../Gadget-2.0.7/ICs/lcdm_gas_littleendian.dat
+OutputDir          ./
+OutputListFilename outputs_lcdm_gas.txt
+RestartFile        ./restart
+
+y en la terminal:
+
+echo "export LD_LIBRARY_PATH=/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/GSL/lib:$LD_LIBRARY_PATH" > correr
+echo "export LD_LIBRARY_PATH=/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/FFTW/lib:$LD_LIBRARY_PATH" >> correr
+echo "mpirun -np 4 ./Gadget2 lcdm_gas.param > salida.txt &" >> correr
+chmod +x correr
+./correr (esto corre el código de gadget 2 y aunque no da señales de vida, usando los comandos "tail salida.txt" y "tail info.txt" se puede saber lo que está pasando
+
+YA están los snapshots de gadget, ahora hay que visualizarlos
+
+
+---------------------------------------
+Compilación Gadget File Viewer
+---------------------------------------
+
+Segun el howto de Gabbasov se necesitan las siguientes dependencias:
+
+	-libgtk2.0-0
+	-libgtk2.0-dev
+	-libcairo2
+	-libcairo2-dev
+	-gnudatalanguage
+
+Segun la pagina de gadgetfileviewer (http://astro.dur.ac.uk/~jch/gadgetviewer/index.html) son:
+
+	-HDF5
+	-PlPlot o cairo (libcairo)
+	-LibPng
+
+Segun el readme de gadgetfileviewer:
+
+	- HDF5  : allows reading of HDF5 snapshots
+	- libpng: required for writing out movie frames and screenshots
+	- PlPlot: to make scatterplots and histograms of particle properties
+  		(plplot is no longer necessary as the gadgetviewer can use Cairo,
+  		which is a dependency of Gtk, instead)
+
+Entonces, podemos instalar HDF5, libcairo y libgtk2 pues son la intersección de todas las recomendaciones (ya veremos qué falta al finalizar), en la terminal:
+
+sudo apt-get install libcairo2 (ya estaba instalada)
+sudo apt-get install libcairo2-dev
+"     "          "   libgtk2.0-0 (ya instalada)
+"     "          "   libgtk2.0-dev
+"     "          "   gnudatalanguage
+"     "          "   libhdf5-dev
+
+Ya con las librerias instaladas se descomprime el tar de gadgetviewer1.0.6 y se configura
+
+./configure --prefix=/home/claudio/workshops/mini-taller-2017/gabbasov-gadget/gadget/viewer
+make
+cp main/src/gadgetviewer ../gadget/run
+
+AHORA SI PERRRRRRROOOSSSSS:
+
+./gadgetviewer snapshot_005
+
+Y va a aparecer la simulación!
+
+http://astro.dur.ac.uk/~jch/gadgetviewer/index.html para consultas
 
 

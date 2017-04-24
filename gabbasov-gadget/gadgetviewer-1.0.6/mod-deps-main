@@ -1,0 +1,112 @@
+return_status.o : 	return_status.f90
+
+read_gadget_groups.o : 	read_gadget_groups.f90 return_status.o data_types.o gadget_path.o
+
+property_plot.o : 	property_plot.f90 stereo.o project.o particle_store.o transform.o view_parameters.o data_types.o colour_table.o math.o
+
+progress_bar.o : 	progress_bar.f90 stereo.o
+
+density2d.o : 	density2d.F90 stereo.o project.o particle_store.o transform.o view_parameters.o data_types.o colour_table.o math.o
+
+octree.o : 	octree.F90 sort.o data_types.o shuffle.o
+
+configuration.o : 	configuration.f90 gadget_eagle_reader.o mouse_handler.o gadget_binary_type2_reader.o gadget_hdf5_reader.o colour_table.o
+
+data_types.o : 	data_types.F90
+
+summary.o : 	summary.f90 particle_store.o string.o
+
+overlay.o : 	overlay.F90 stereo.o selection.o project.o particle_store.o sampling.o catalogue_data.o view_parameters.o string.o
+
+selection.o : 	selection.F90 sort.o return_status.o particle_store.o transform.o view_parameters.o data_types.o string.o data_array.o
+
+dummy_reader.o : 	dummy_reader.F90 return_status.o particle_store.o progress_bar.o partial_read_info.o summary.o data_types.o string.o
+
+gadget_hdf5_reader.o : 	gadget_hdf5_reader.F90 return_status.o particle_store.o progress_bar.o file_units.o summary.o partial_read_info.o shrink_array.o data_types.o gadget_path.o string.o
+
+screenshot.o : 	screenshot.f90 return_status.o particle_store.o plotter.o sampling.o view_parameters.o
+
+reorder.o : 	reorder.f90 data_types.o
+
+catalogue_data.o : 	catalogue_data.f90 return_status.o data_types.o gadget_path.o particle_store.o
+
+gadget_binary_reader.o : 	gadget_binary_reader.F90 return_status.o particle_store.o progress_bar.o file_units.o summary.o partial_read_info.o shrink_array.o data_types.o gadget_path.o string.o
+
+plotter.o : 	plotter.f90 stereo.o smoothed_property_plot.o property_plot.o fancyplot.o transform.o view_parameters.o overlay.o colour_table.o density2d.o dotplot.o
+
+percentiles.o : 	percentiles.f90 sort.o data_types.o
+
+gadget_eagle_reader.o : 	gadget_eagle_reader.F90 return_status.o particle_store.o progress_bar.o file_units.o summary.o partial_read_info.o shrink_array.o data_types.o gadget_path.o string.o
+
+string.o : 	string.f90 data_types.o
+
+command_line.o : 	command_line.f90 partial_read_info.o
+
+colour_bar.o : 	colour_bar.F90 data_types.o colour_table.o
+
+sampling.o : 	sampling.f90 return_status.o selection.o particle_store.o graph.o view_parameters.o data_types.o
+
+gadgetviewer.o : 	gadgetviewer.F90 snapshot_reader.o return_status.o selection.o particle_store.o save_settings.o partial_read_info.o plotter.o command_line.o view_parameters.o data_types.o main_window.o read_partial.o movie.o configuration.o colour_table.o
+
+select_point.o : 	select_point.f90 view_parameters.o stereo.o transform.o particle_store.o
+
+view_parameters.o : 	view_parameters.f90 return_status.o particle_store.o stereo.o transform.o data_types.o string.o
+
+snapshot_reader.o : 	snapshot_reader.f90 catalogue_data.o return_status.o selection.o partial_read_info.o particle_store.o gadget_eagle_reader.o progress_bar.o info_window.o plotter.o gadget_binary_reader.o sampling.o group_catalogue.o gadget_binary_type2_reader.o view_parameters.o gadget_hdf5_reader.o dummy_reader.o summary.o additional_data.o
+
+file_units.o : 	file_units.f90
+
+movie.o : 	movie.f90 snapshot_reader.o return_status.o selection.o particle_store.o progress_bar.o plotter.o string.o transform.o sampling.o view_parameters.o graph.o colour_table.o movie_parameters.o select_point.o data_types.o save_settings.o
+
+stereo.o : 	stereo.f90
+
+dotplot.o : 	dotplot.f90 stereo.o project.o particle_store.o transform.o view_parameters.o data_types.o
+
+main_window.o : 	main_window.F90 selection.o read_gadget_groups.o info_window.o mouse_handler.o sampling.o progress_bar.o movie.o transform.o catalogue_data.o select_point.o screenshot.o string.o stereo.o group_catalogue.o data_types.o configuration.o snapshot_reader.o return_status.o particle_store.o save_settings.o plotter.o overlay.o summary.o view_parameters.o colour_table.o read_partial.o graph.o additional_data.o
+
+additional_data.o : 	additional_data.F90 sort.o return_status.o auxiliary_file_list.o particle_store.o data_types.o gadget_path.o string.o
+
+gadget_binary_type2_reader.o : 	gadget_binary_type2_reader.F90 return_status.o particle_store.o progress_bar.o file_units.o summary.o partial_read_info.o data_types.o gadget_path.o string.o
+
+transform.o : 	transform.f90 data_types.o
+
+save_settings.o : 	save_settings.F90 return_status.o selection.o overlay.o plotter.o movie_parameters.o stereo.o transform.o view_parameters.o graph.o sampling.o
+
+mouse_handler.o : 	mouse_handler.f90 stereo.o project.o particle_store.o info_window.o transform.o view_parameters.o percentiles.o data_types.o
+
+smoothed_property_plot.o : 	smoothed_property_plot.F90 stereo.o project.o particle_store.o transform.o view_parameters.o data_types.o colour_table.o string.o math.o
+
+data_array.o : 	data_array.f90 data_types.o
+
+partial_read_info.o : 	partial_read_info.f90
+
+gadget_path.o : 	gadget_path.f90 return_status.o string.o
+
+movie_parameters.o : 	movie_parameters.f90
+
+shuffle.o : 	shuffle.f90 data_types.o
+
+particle_store.o : 	particle_store.F90 return_status.o progress_bar.o octree.o data_types.o string.o data_array.o
+
+fancyplot.o : 	fancyplot.F90 stereo.o project.o particle_store.o transform.o view_parameters.o data_types.o colour_table.o string.o math.o
+
+read_partial.o : 	read_partial.f90 snapshot_reader.o return_status.o selection.o particle_store.o partial_read_info.o plotter.o graph.o movie.o
+
+shrink_array.o : 	shrink_array.f90 data_types.o
+
+project.o : 	project.f90 view_parameters.o stereo.o data_types.o transform.o
+
+graph.o : 	graph.F90 selection.o particle_store.o data_types.o string.o math.o
+
+math.o : 	math.F90 data_types.o
+
+group_catalogue.o : 	group_catalogue.f90 sort.o return_status.o particle_store.o read_gadget_groups.o progress_bar.o data_types.o gadget_path.o
+
+colour_table.o : 	colour_table.f90 stereo.o
+
+info_window.o : 	info_window.f90 view_parameters.o data_types.o particle_store.o
+
+auxiliary_file_list.o : 	auxiliary_file_list.f90 data_types.o gadget_path.o particle_store.o
+
+sort.o : 	sort.F90 data_types.o
+

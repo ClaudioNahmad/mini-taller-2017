@@ -1,0 +1,1214 @@
+
+Begin Step 0, Time: 0.0909091, Redshift: 10, Systemstep: 0, Dloga: 0
+
+Begin Step 1, Time: 0.0926282, Redshift: 9.79585, Systemstep: 0.0017191, Dloga: 0.0187336
+
+Begin Step 2, Time: 0.0943798, Redshift: 9.59549, Systemstep: 0.00175161, Dloga: 0.0187336
+
+Begin Step 3, Time: 0.0961645, Redshift: 9.39884, Systemstep: 0.00178473, Dloga: 0.0187336
+
+Begin Step 4, Time: 0.097983, Redshift: 9.20585, Systemstep: 0.00181848, Dloga: 0.0187336
+
+Begin Step 5, Time: 0.0998359, Redshift: 9.01644, Systemstep: 0.00185287, Dloga: 0.0187336
+
+Begin Step 6, Time: 0.101724, Redshift: 8.83054, Systemstep: 0.00188791, Dloga: 0.0187336
+
+Begin Step 7, Time: 0.103647, Redshift: 8.64809, Systemstep: 0.00192361, Dloga: 0.0187336
+
+Begin Step 8, Time: 0.105607, Redshift: 8.46903, Systemstep: 0.00195999, Dloga: 0.0187336
+
+Begin Step 9, Time: 0.107604, Redshift: 8.2933, Systemstep: 0.00199705, Dloga: 0.0187336
+
+Begin Step 10, Time: 0.109639, Redshift: 8.12082, Systemstep: 0.00203481, Dloga: 0.0187336
+
+Begin Step 11, Time: 0.111713, Redshift: 7.95155, Systemstep: 0.00207329, Dloga: 0.0187336
+
+Begin Step 12, Time: 0.113825, Redshift: 7.78541, Systemstep: 0.0021125, Dloga: 0.0187336
+
+Begin Step 13, Time: 0.115978, Redshift: 7.62236, Systemstep: 0.00215245, Dloga: 0.0187336
+
+Begin Step 14, Time: 0.118171, Redshift: 7.46234, Systemstep: 0.00219315, Dloga: 0.0187336
+
+Begin Step 15, Time: 0.120405, Redshift: 7.30528, Systemstep: 0.00223462, Dloga: 0.0187336
+
+Begin Step 16, Time: 0.122682, Redshift: 7.15114, Systemstep: 0.00227688, Dloga: 0.0187336
+
+Begin Step 17, Time: 0.125002, Redshift: 6.99987, Systemstep: 0.00231994, Dloga: 0.0187336
+
+Begin Step 18, Time: 0.127366, Redshift: 6.8514, Systemstep: 0.00236381, Dloga: 0.0187336
+
+Begin Step 19, Time: 0.129774, Redshift: 6.70568, Systemstep: 0.00240851, Dloga: 0.0187336
+
+Begin Step 20, Time: 0.132228, Redshift: 6.56267, Systemstep: 0.00245405, Dloga: 0.0187336
+
+Begin Step 21, Time: 0.134729, Redshift: 6.42231, Systemstep: 0.00250046, Dloga: 0.0187336
+
+Begin Step 22, Time: 0.137277, Redshift: 6.28456, Systemstep: 0.00254774, Dloga: 0.0187336
+
+Begin Step 23, Time: 0.139873, Redshift: 6.14936, Systemstep: 0.00259592, Dloga: 0.0187336
+
+Begin Step 24, Time: 0.142518, Redshift: 6.01668, Systemstep: 0.00264501, Dloga: 0.0187336
+
+Begin Step 25, Time: 0.145213, Redshift: 5.88645, Systemstep: 0.00269503, Dloga: 0.0187336
+
+Begin Step 26, Time: 0.147959, Redshift: 5.75865, Systemstep: 0.00274599, Dloga: 0.0187336
+
+Begin Step 27, Time: 0.150757, Redshift: 5.63321, Systemstep: 0.00279792, Dloga: 0.0187336
+
+Begin Step 28, Time: 0.153607, Redshift: 5.51011, Systemstep: 0.00285083, Dloga: 0.0187336
+
+Begin Step 29, Time: 0.156512, Redshift: 5.38928, Systemstep: 0.00290473, Dloga: 0.0187336
+
+Begin Step 30, Time: 0.159472, Redshift: 5.2707, Systemstep: 0.00295966, Dloga: 0.0187336
+
+Begin Step 31, Time: 0.162487, Redshift: 5.15432, Systemstep: 0.00301563, Dloga: 0.0187336
+
+Begin Step 32, Time: 0.16556, Redshift: 5.04011, Systemstep: 0.00307266, Dloga: 0.0187336
+
+Begin Step 33, Time: 0.168691, Redshift: 4.92801, Systemstep: 0.00313076, Dloga: 0.0187336
+
+Begin Step 34, Time: 0.171881, Redshift: 4.81799, Systemstep: 0.00318996, Dloga: 0.0187336
+
+Begin Step 35, Time: 0.175131, Redshift: 4.71001, Systemstep: 0.00325029, Dloga: 0.0187336
+
+Begin Step 36, Time: 0.178443, Redshift: 4.60404, Systemstep: 0.00331175, Dloga: 0.0187336
+
+Begin Step 37, Time: 0.181817, Redshift: 4.50003, Systemstep: 0.00337438, Dloga: 0.0187336
+
+Begin Step 38, Time: 0.185255, Redshift: 4.39795, Systemstep: 0.00343819, Dloga: 0.0187336
+
+Begin Step 39, Time: 0.188759, Redshift: 4.29777, Systemstep: 0.0035032, Dloga: 0.0187336
+
+Begin Step 40, Time: 0.192328, Redshift: 4.19945, Systemstep: 0.00356945, Dloga: 0.0187336
+
+Begin Step 41, Time: 0.195965, Redshift: 4.10295, Systemstep: 0.00363695, Dloga: 0.0187336
+
+Begin Step 42, Time: 0.199671, Redshift: 4.00825, Systemstep: 0.00370572, Dloga: 0.0187336
+
+Begin Step 43, Time: 0.203446, Redshift: 3.9153, Systemstep: 0.0037758, Dloga: 0.0187336
+
+Begin Step 44, Time: 0.207294, Redshift: 3.82407, Systemstep: 0.0038472, Dloga: 0.0187336
+
+Begin Step 45, Time: 0.211214, Redshift: 3.73454, Systemstep: 0.00391995, Dloga: 0.0187336
+
+Begin Step 46, Time: 0.215208, Redshift: 3.64667, Systemstep: 0.00399408, Dloga: 0.0187336
+
+Begin Step 47, Time: 0.219277, Redshift: 3.56044, Systemstep: 0.00406961, Dloga: 0.0187336
+
+Begin Step 48, Time: 0.223424, Redshift: 3.4758, Systemstep: 0.00414656, Dloga: 0.0187336
+
+Begin Step 49, Time: 0.227649, Redshift: 3.39273, Systemstep: 0.00422497, Dloga: 0.0187336
+
+Begin Step 50, Time: 0.231954, Redshift: 3.3112, Systemstep: 0.00430487, Dloga: 0.0187336
+
+Begin Step 51, Time: 0.234137, Redshift: 3.27101, Systemstep: 0.00218287, Dloga: 0.00936678
+
+Begin Step 52, Time: 0.23634, Redshift: 3.23119, Systemstep: 0.00220341, Dloga: 0.00936678
+
+Begin Step 53, Time: 0.238564, Redshift: 3.19174, Systemstep: 0.00222414, Dloga: 0.00936678
+
+Begin Step 54, Time: 0.240809, Redshift: 3.15267, Systemstep: 0.00224508, Dloga: 0.00936678
+
+Begin Step 55, Time: 0.243075, Redshift: 3.11395, Systemstep: 0.0022662, Dloga: 0.00936678
+
+Begin Step 56, Time: 0.245363, Redshift: 3.0756, Systemstep: 0.00228753, Dloga: 0.00936678
+
+Begin Step 57, Time: 0.247672, Redshift: 3.0376, Systemstep: 0.00230906, Dloga: 0.00936678
+
+Begin Step 58, Time: 0.250003, Redshift: 2.99996, Systemstep: 0.00233079, Dloga: 0.00936678
+
+Begin Step 59, Time: 0.252356, Redshift: 2.96266, Systemstep: 0.00235272, Dloga: 0.00936678
+
+Begin Step 60, Time: 0.25473, Redshift: 2.92572, Systemstep: 0.00237486, Dloga: 0.00936678
+
+Begin Step 61, Time: 0.257128, Redshift: 2.88912, Systemstep: 0.00239721, Dloga: 0.00936678
+
+Begin Step 62, Time: 0.259547, Redshift: 2.85286, Systemstep: 0.00241977, Dloga: 0.00936678
+
+Begin Step 63, Time: 0.260766, Redshift: 2.83486, Systemstep: 0.00121841, Dloga: 0.00468339
+
+Begin Step 64, Time: 0.26199, Redshift: 2.81694, Systemstep: 0.00122413, Dloga: 0.00468339
+
+Begin Step 65, Time: 0.26322, Redshift: 2.79911, Systemstep: 0.00122988, Dloga: 0.00468339
+
+Begin Step 66, Time: 0.264455, Redshift: 2.78136, Systemstep: 0.00123565, Dloga: 0.00468339
+
+Begin Step 67, Time: 0.265697, Redshift: 2.76369, Systemstep: 0.00124145, Dloga: 0.00468339
+
+Begin Step 68, Time: 0.266944, Redshift: 2.7461, Systemstep: 0.00124728, Dloga: 0.00468339
+
+Begin Step 69, Time: 0.268197, Redshift: 2.7286, Systemstep: 0.00125314, Dloga: 0.00468339
+
+Begin Step 70, Time: 0.269456, Redshift: 2.71118, Systemstep: 0.00125902, Dloga: 0.00468339
+
+Begin Step 71, Time: 0.270721, Redshift: 2.69384, Systemstep: 0.00126493, Dloga: 0.00468339
+
+Begin Step 72, Time: 0.271992, Redshift: 2.67658, Systemstep: 0.00127087, Dloga: 0.00468339
+
+Begin Step 73, Time: 0.273269, Redshift: 2.6594, Systemstep: 0.00127683, Dloga: 0.00468339
+
+Begin Step 74, Time: 0.274552, Redshift: 2.6423, Systemstep: 0.00128283, Dloga: 0.00468339
+
+Begin Step 75, Time: 0.275841, Redshift: 2.62528, Systemstep: 0.00128885, Dloga: 0.00468339
+
+Begin Step 76, Time: 0.277136, Redshift: 2.60834, Systemstep: 0.0012949, Dloga: 0.00468339
+
+Begin Step 77, Time: 0.278437, Redshift: 2.59148, Systemstep: 0.00130098, Dloga: 0.00468339
+
+Begin Step 78, Time: 0.279744, Redshift: 2.5747, Systemstep: 0.00130708, Dloga: 0.00468339
+
+Begin Step 79, Time: 0.281057, Redshift: 2.558, Systemstep: 0.00131322, Dloga: 0.00468339
+
+Begin Step 80, Time: 0.282376, Redshift: 2.54138, Systemstep: 0.00131939, Dloga: 0.00468339
+
+Begin Step 81, Time: 0.283702, Redshift: 2.52483, Systemstep: 0.00132558, Dloga: 0.00468339
+
+Begin Step 82, Time: 0.285034, Redshift: 2.50836, Systemstep: 0.0013318, Dloga: 0.00468339
+
+Begin Step 83, Time: 0.286372, Redshift: 2.49197, Systemstep: 0.00133805, Dloga: 0.00468339
+
+Begin Step 84, Time: 0.287716, Redshift: 2.47565, Systemstep: 0.00134434, Dloga: 0.00468339
+
+Begin Step 85, Time: 0.289067, Redshift: 2.45941, Systemstep: 0.00135065, Dloga: 0.00468339
+
+Begin Step 86, Time: 0.290424, Redshift: 2.44325, Systemstep: 0.00135699, Dloga: 0.00468339
+
+Begin Step 87, Time: 0.291787, Redshift: 2.42716, Systemstep: 0.00136336, Dloga: 0.00468339
+
+Begin Step 88, Time: 0.293157, Redshift: 2.41114, Systemstep: 0.00136976, Dloga: 0.00468339
+
+Begin Step 89, Time: 0.294533, Redshift: 2.39521, Systemstep: 0.00137619, Dloga: 0.00468339
+
+Begin Step 90, Time: 0.295916, Redshift: 2.37934, Systemstep: 0.00138265, Dloga: 0.00468339
+
+Begin Step 91, Time: 0.297305, Redshift: 2.36355, Systemstep: 0.00138914, Dloga: 0.00468339
+
+Begin Step 92, Time: 0.2987, Redshift: 2.34784, Systemstep: 0.00139566, Dloga: 0.00468339
+
+Begin Step 93, Time: 0.300103, Redshift: 2.33219, Systemstep: 0.00140221, Dloga: 0.00468339
+
+Begin Step 94, Time: 0.301511, Redshift: 2.31662, Systemstep: 0.00140879, Dloga: 0.00468339
+
+Begin Step 95, Time: 0.302927, Redshift: 2.30113, Systemstep: 0.00141541, Dloga: 0.00468339
+
+Begin Step 96, Time: 0.304349, Redshift: 2.2857, Systemstep: 0.00142205, Dloga: 0.00468339
+
+Begin Step 97, Time: 0.305778, Redshift: 2.27035, Systemstep: 0.00142873, Dloga: 0.00468339
+
+Begin Step 98, Time: 0.307213, Redshift: 2.25507, Systemstep: 0.00143543, Dloga: 0.00468339
+
+Begin Step 99, Time: 0.308655, Redshift: 2.23986, Systemstep: 0.00144217, Dloga: 0.00468339
+
+Begin Step 100, Time: 0.310104, Redshift: 2.22472, Systemstep: 0.00144894, Dloga: 0.00468339
+
+Begin Step 101, Time: 0.310831, Redshift: 2.21718, Systemstep: 0.00072702, Dloga: 0.00234169
+
+Begin Step 102, Time: 0.31156, Redshift: 2.20966, Systemstep: 0.000728724, Dloga: 0.00234169
+
+Begin Step 103, Time: 0.31229, Redshift: 2.20215, Systemstep: 0.000730433, Dloga: 0.00234169
+
+Begin Step 104, Time: 0.313022, Redshift: 2.19466, Systemstep: 0.000732145, Dloga: 0.00234169
+
+Begin Step 105, Time: 0.313756, Redshift: 2.18719, Systemstep: 0.000733862, Dloga: 0.00234169
+
+Begin Step 106, Time: 0.314492, Redshift: 2.17973, Systemstep: 0.000735582, Dloga: 0.00234169
+
+Begin Step 107, Time: 0.315229, Redshift: 2.1723, Systemstep: 0.000737307, Dloga: 0.00234169
+
+Begin Step 108, Time: 0.315968, Redshift: 2.16488, Systemstep: 0.000739035, Dloga: 0.00234169
+
+Begin Step 109, Time: 0.316709, Redshift: 2.15747, Systemstep: 0.000740768, Dloga: 0.00234169
+
+Begin Step 110, Time: 0.317451, Redshift: 2.15009, Systemstep: 0.000742505, Dloga: 0.00234169
+
+Begin Step 111, Time: 0.318196, Redshift: 2.14272, Systemstep: 0.000744245, Dloga: 0.00234169
+
+Begin Step 112, Time: 0.318942, Redshift: 2.13537, Systemstep: 0.00074599, Dloga: 0.00234169
+
+Begin Step 113, Time: 0.319689, Redshift: 2.12804, Systemstep: 0.000747739, Dloga: 0.00234169
+
+Begin Step 114, Time: 0.320439, Redshift: 2.12072, Systemstep: 0.000749492, Dloga: 0.00234169
+
+Begin Step 115, Time: 0.32119, Redshift: 2.11342, Systemstep: 0.000751249, Dloga: 0.00234169
+
+Begin Step 116, Time: 0.321943, Redshift: 2.10614, Systemstep: 0.000753011, Dloga: 0.00234169
+
+Begin Step 117, Time: 0.322698, Redshift: 2.09887, Systemstep: 0.000754776, Dloga: 0.00234169
+
+Begin Step 118, Time: 0.323455, Redshift: 2.09162, Systemstep: 0.000756546, Dloga: 0.00234169
+
+Begin Step 119, Time: 0.324213, Redshift: 2.08439, Systemstep: 0.000758319, Dloga: 0.00234169
+
+Begin Step 120, Time: 0.324973, Redshift: 2.07718, Systemstep: 0.000760097, Dloga: 0.00234169
+
+Begin Step 121, Time: 0.325735, Redshift: 2.06998, Systemstep: 0.000761879, Dloga: 0.00234169
+
+Begin Step 122, Time: 0.326498, Redshift: 2.0628, Systemstep: 0.000763665, Dloga: 0.00234169
+
+Begin Step 123, Time: 0.327264, Redshift: 2.05564, Systemstep: 0.000765456, Dloga: 0.00234169
+
+Begin Step 124, Time: 0.328031, Redshift: 2.04849, Systemstep: 0.00076725, Dloga: 0.00234169
+
+Begin Step 125, Time: 0.3288, Redshift: 2.04136, Systemstep: 0.000769049, Dloga: 0.00234169
+
+Begin Step 126, Time: 0.329571, Redshift: 2.03425, Systemstep: 0.000770852, Dloga: 0.00234169
+
+Begin Step 127, Time: 0.331118, Redshift: 2.02007, Systemstep: 0.00154713, Dloga: 0.00468339
+
+Begin Step 128, Time: 0.331894, Redshift: 2.01301, Systemstep: 0.000776286, Dloga: 0.00234169
+
+Begin Step 129, Time: 0.332673, Redshift: 2.00596, Systemstep: 0.000778106, Dloga: 0.00234169
+
+Begin Step 130, Time: 0.333453, Redshift: 1.99893, Systemstep: 0.00077993, Dloga: 0.00234169
+
+Begin Step 131, Time: 0.334234, Redshift: 1.99191, Systemstep: 0.000781759, Dloga: 0.00234169
+
+Begin Step 132, Time: 0.335018, Redshift: 1.98492, Systemstep: 0.000783592, Dloga: 0.00234169
+
+Begin Step 133, Time: 0.335803, Redshift: 1.97793, Systemstep: 0.000785429, Dloga: 0.00234169
+
+Begin Step 134, Time: 0.336591, Redshift: 1.97097, Systemstep: 0.00078727, Dloga: 0.00234169
+
+Begin Step 135, Time: 0.33738, Redshift: 1.96402, Systemstep: 0.000789116, Dloga: 0.00234169
+
+Begin Step 136, Time: 0.338171, Redshift: 1.95709, Systemstep: 0.000790966, Dloga: 0.00234169
+
+Begin Step 137, Time: 0.338963, Redshift: 1.95017, Systemstep: 0.00079282, Dloga: 0.00234169
+
+Begin Step 138, Time: 0.339758, Redshift: 1.94327, Systemstep: 0.000794679, Dloga: 0.00234169
+
+Begin Step 139, Time: 0.340555, Redshift: 1.93639, Systemstep: 0.000796542, Dloga: 0.00234169
+
+Begin Step 140, Time: 0.341353, Redshift: 1.92952, Systemstep: 0.00079841, Dloga: 0.00234169
+
+Begin Step 141, Time: 0.342153, Redshift: 1.92267, Systemstep: 0.000800281, Dloga: 0.00234169
+
+Begin Step 142, Time: 0.342956, Redshift: 1.91583, Systemstep: 0.000802158, Dloga: 0.00234169
+
+Begin Step 143, Time: 0.34376, Redshift: 1.90901, Systemstep: 0.000804038, Dloga: 0.00234169
+
+Begin Step 144, Time: 0.344566, Redshift: 1.90221, Systemstep: 0.000805923, Dloga: 0.00234169
+
+Begin Step 145, Time: 0.345373, Redshift: 1.89542, Systemstep: 0.000807813, Dloga: 0.00234169
+
+Begin Step 146, Time: 0.346183, Redshift: 1.88865, Systemstep: 0.000809707, Dloga: 0.00234169
+
+Begin Step 147, Time: 0.346995, Redshift: 1.88189, Systemstep: 0.000811605, Dloga: 0.00234169
+
+Begin Step 148, Time: 0.347808, Redshift: 1.87515, Systemstep: 0.000813508, Dloga: 0.00234169
+
+Begin Step 149, Time: 0.348624, Redshift: 1.86842, Systemstep: 0.000815415, Dloga: 0.00234169
+
+Begin Step 150, Time: 0.349441, Redshift: 1.86171, Systemstep: 0.000817326, Dloga: 0.00234169
+
+Begin Step 151, Time: 0.35026, Redshift: 1.85502, Systemstep: 0.000819243, Dloga: 0.00234169
+
+Begin Step 152, Time: 0.351081, Redshift: 1.84834, Systemstep: 0.000821163, Dloga: 0.00234169
+
+Begin Step 153, Time: 0.351904, Redshift: 1.84168, Systemstep: 0.000823088, Dloga: 0.00234169
+
+Begin Step 154, Time: 0.352729, Redshift: 1.83503, Systemstep: 0.000825018, Dloga: 0.00234169
+
+Begin Step 155, Time: 0.353556, Redshift: 1.8284, Systemstep: 0.000826952, Dloga: 0.00234169
+
+Begin Step 156, Time: 0.354385, Redshift: 1.82179, Systemstep: 0.000828891, Dloga: 0.00234169
+
+Begin Step 157, Time: 0.355216, Redshift: 1.81519, Systemstep: 0.000830834, Dloga: 0.00234169
+
+Begin Step 158, Time: 0.356049, Redshift: 1.8086, Systemstep: 0.000832782, Dloga: 0.00234169
+
+Begin Step 159, Time: 0.356884, Redshift: 1.80203, Systemstep: 0.000834735, Dloga: 0.00234169
+
+Begin Step 160, Time: 0.35772, Redshift: 1.79548, Systemstep: 0.000836692, Dloga: 0.00234169
+
+Begin Step 161, Time: 0.358559, Redshift: 1.78894, Systemstep: 0.000838653, Dloga: 0.00234169
+
+Begin Step 162, Time: 0.3594, Redshift: 1.78242, Systemstep: 0.000840619, Dloga: 0.00234169
+
+Begin Step 163, Time: 0.360242, Redshift: 1.77591, Systemstep: 0.00084259, Dloga: 0.00234169
+
+Begin Step 164, Time: 0.361087, Redshift: 1.76942, Systemstep: 0.000844566, Dloga: 0.00234169
+
+Begin Step 165, Time: 0.361933, Redshift: 1.76294, Systemstep: 0.000846546, Dloga: 0.00234169
+
+Begin Step 166, Time: 0.362782, Redshift: 1.75648, Systemstep: 0.00084853, Dloga: 0.00234169
+
+Begin Step 167, Time: 0.363632, Redshift: 1.75003, Systemstep: 0.00085052, Dloga: 0.00234169
+
+Begin Step 168, Time: 0.364485, Redshift: 1.7436, Systemstep: 0.000852514, Dloga: 0.00234169
+
+Begin Step 169, Time: 0.365339, Redshift: 1.73718, Systemstep: 0.000854512, Dloga: 0.00234169
+
+Begin Step 170, Time: 0.366196, Redshift: 1.73078, Systemstep: 0.000856516, Dloga: 0.00234169
+
+Begin Step 171, Time: 0.367054, Redshift: 1.72439, Systemstep: 0.000858524, Dloga: 0.00234169
+
+Begin Step 172, Time: 0.367915, Redshift: 1.71802, Systemstep: 0.000860536, Dloga: 0.00234169
+
+Begin Step 173, Time: 0.368777, Redshift: 1.71166, Systemstep: 0.000862554, Dloga: 0.00234169
+
+Begin Step 174, Time: 0.369642, Redshift: 1.70532, Systemstep: 0.000864576, Dloga: 0.00234169
+
+Begin Step 175, Time: 0.370509, Redshift: 1.69899, Systemstep: 0.000866603, Dloga: 0.00234169
+
+Begin Step 176, Time: 0.371377, Redshift: 1.69268, Systemstep: 0.000868635, Dloga: 0.00234169
+
+Begin Step 177, Time: 0.372248, Redshift: 1.68638, Systemstep: 0.000870671, Dloga: 0.00234169
+
+Begin Step 178, Time: 0.373121, Redshift: 1.6801, Systemstep: 0.000872712, Dloga: 0.00234169
+
+Begin Step 179, Time: 0.373995, Redshift: 1.67383, Systemstep: 0.000874758, Dloga: 0.00234169
+
+Begin Step 180, Time: 0.374872, Redshift: 1.66758, Systemstep: 0.000876809, Dloga: 0.00234169
+
+Begin Step 181, Time: 0.375751, Redshift: 1.66134, Systemstep: 0.000878865, Dloga: 0.00234169
+
+Begin Step 182, Time: 0.376632, Redshift: 1.65511, Systemstep: 0.000880925, Dloga: 0.00234169
+
+Begin Step 183, Time: 0.377515, Redshift: 1.6489, Systemstep: 0.000882991, Dloga: 0.00234169
+
+Begin Step 184, Time: 0.3784, Redshift: 1.64271, Systemstep: 0.000885061, Dloga: 0.00234169
+
+Begin Step 185, Time: 0.379287, Redshift: 1.63652, Systemstep: 0.000887136, Dloga: 0.00234169
+
+Begin Step 186, Time: 0.380176, Redshift: 1.63036, Systemstep: 0.000889216, Dloga: 0.00234169
+
+Begin Step 187, Time: 0.381068, Redshift: 1.62421, Systemstep: 0.0008913, Dloga: 0.00234169
+
+Begin Step 188, Time: 0.381961, Redshift: 1.61807, Systemstep: 0.00089339, Dloga: 0.00234169
+
+Begin Step 189, Time: 0.382857, Redshift: 1.61194, Systemstep: 0.000895484, Dloga: 0.00234169
+
+Begin Step 190, Time: 0.383754, Redshift: 1.60583, Systemstep: 0.000897584, Dloga: 0.00234169
+
+Begin Step 191, Time: 0.384654, Redshift: 1.59974, Systemstep: 0.000899688, Dloga: 0.00234169
+
+Begin Step 192, Time: 0.385556, Redshift: 1.59366, Systemstep: 0.000901797, Dloga: 0.00234169
+
+Begin Step 193, Time: 0.38646, Redshift: 1.58759, Systemstep: 0.000903912, Dloga: 0.00234169
+
+Begin Step 194, Time: 0.387366, Redshift: 1.58154, Systemstep: 0.000906031, Dloga: 0.00234169
+
+Begin Step 195, Time: 0.388274, Redshift: 1.5755, Systemstep: 0.000908155, Dloga: 0.00234169
+
+Begin Step 196, Time: 0.389184, Redshift: 1.56948, Systemstep: 0.000910284, Dloga: 0.00234169
+
+Begin Step 197, Time: 0.390096, Redshift: 1.56347, Systemstep: 0.000912418, Dloga: 0.00234169
+
+Begin Step 198, Time: 0.391011, Redshift: 1.55747, Systemstep: 0.000914557, Dloga: 0.00234169
+
+Begin Step 199, Time: 0.391928, Redshift: 1.55149, Systemstep: 0.000916701, Dloga: 0.00234169
+
+Begin Step 200, Time: 0.392847, Redshift: 1.54552, Systemstep: 0.00091885, Dloga: 0.00234169
+
+Begin Step 201, Time: 0.393768, Redshift: 1.53957, Systemstep: 0.000921005, Dloga: 0.00234169
+
+Begin Step 202, Time: 0.394691, Redshift: 1.53363, Systemstep: 0.000923164, Dloga: 0.00234169
+
+Begin Step 203, Time: 0.395616, Redshift: 1.5277, Systemstep: 0.000925328, Dloga: 0.00234169
+
+Begin Step 204, Time: 0.396544, Redshift: 1.52179, Systemstep: 0.000927498, Dloga: 0.00234169
+
+Begin Step 205, Time: 0.397473, Redshift: 1.51589, Systemstep: 0.000929672, Dloga: 0.00234169
+
+Begin Step 206, Time: 0.398405, Redshift: 1.51001, Systemstep: 0.000931852, Dloga: 0.00234169
+
+Begin Step 207, Time: 0.399339, Redshift: 1.50414, Systemstep: 0.000934036, Dloga: 0.00234169
+
+Begin Step 208, Time: 0.400275, Redshift: 1.49828, Systemstep: 0.000936226, Dloga: 0.00234169
+
+Begin Step 209, Time: 0.401214, Redshift: 1.49244, Systemstep: 0.000938421, Dloga: 0.00234169
+
+Begin Step 210, Time: 0.402154, Redshift: 1.48661, Systemstep: 0.000940621, Dloga: 0.00234169
+
+Begin Step 211, Time: 0.403097, Redshift: 1.48079, Systemstep: 0.000942826, Dloga: 0.00234169
+
+Begin Step 212, Time: 0.404042, Redshift: 1.47499, Systemstep: 0.000945037, Dloga: 0.00234169
+
+Begin Step 213, Time: 0.40499, Redshift: 1.4692, Systemstep: 0.000947252, Dloga: 0.00234169
+
+Begin Step 214, Time: 0.405939, Redshift: 1.46342, Systemstep: 0.000949473, Dloga: 0.00234169
+
+Begin Step 215, Time: 0.406891, Redshift: 1.45766, Systemstep: 0.000951699, Dloga: 0.00234169
+
+Begin Step 216, Time: 0.407845, Redshift: 1.45191, Systemstep: 0.00095393, Dloga: 0.00234169
+
+Begin Step 217, Time: 0.408801, Redshift: 1.44618, Systemstep: 0.000956167, Dloga: 0.00234169
+
+Begin Step 218, Time: 0.409759, Redshift: 1.44046, Systemstep: 0.000958408, Dloga: 0.00234169
+
+Begin Step 219, Time: 0.41072, Redshift: 1.43475, Systemstep: 0.000960655, Dloga: 0.00234169
+
+Begin Step 220, Time: 0.411683, Redshift: 1.42905, Systemstep: 0.000962907, Dloga: 0.00234169
+
+Begin Step 221, Time: 0.412648, Redshift: 1.42337, Systemstep: 0.000965165, Dloga: 0.00234169
+
+Begin Step 222, Time: 0.413615, Redshift: 1.41771, Systemstep: 0.000967428, Dloga: 0.00234169
+
+Begin Step 223, Time: 0.414585, Redshift: 1.41205, Systemstep: 0.000969696, Dloga: 0.00234169
+
+Begin Step 224, Time: 0.415557, Redshift: 1.40641, Systemstep: 0.000971969, Dloga: 0.00234169
+
+Begin Step 225, Time: 0.416531, Redshift: 1.40078, Systemstep: 0.000974248, Dloga: 0.00234169
+
+Begin Step 226, Time: 0.417508, Redshift: 1.39516, Systemstep: 0.000976532, Dloga: 0.00234169
+
+Begin Step 227, Time: 0.418487, Redshift: 1.38956, Systemstep: 0.000978821, Dloga: 0.00234169
+
+Begin Step 228, Time: 0.419468, Redshift: 1.38397, Systemstep: 0.000981116, Dloga: 0.00234169
+
+Begin Step 229, Time: 0.420451, Redshift: 1.3784, Systemstep: 0.000983416, Dloga: 0.00234169
+
+Begin Step 230, Time: 0.421437, Redshift: 1.37283, Systemstep: 0.000985722, Dloga: 0.00234169
+
+Begin Step 231, Time: 0.422425, Redshift: 1.36728, Systemstep: 0.000988033, Dloga: 0.00234169
+
+Begin Step 232, Time: 0.423415, Redshift: 1.36175, Systemstep: 0.000990349, Dloga: 0.00234169
+
+Begin Step 233, Time: 0.424408, Redshift: 1.35622, Systemstep: 0.000992671, Dloga: 0.00234169
+
+Begin Step 234, Time: 0.425403, Redshift: 1.35071, Systemstep: 0.000994998, Dloga: 0.00234169
+
+Begin Step 235, Time: 0.4264, Redshift: 1.34521, Systemstep: 0.000997331, Dloga: 0.00234169
+
+Begin Step 236, Time: 0.4274, Redshift: 1.33973, Systemstep: 0.000999669, Dloga: 0.00234169
+
+Begin Step 237, Time: 0.428402, Redshift: 1.33426, Systemstep: 0.00100201, Dloga: 0.00234169
+
+Begin Step 238, Time: 0.429406, Redshift: 1.3288, Systemstep: 0.00100436, Dloga: 0.00234169
+
+Begin Step 239, Time: 0.430413, Redshift: 1.32335, Systemstep: 0.00100672, Dloga: 0.00234169
+
+Begin Step 240, Time: 0.431422, Redshift: 1.31792, Systemstep: 0.00100908, Dloga: 0.00234169
+
+Begin Step 241, Time: 0.432434, Redshift: 1.31249, Systemstep: 0.00101144, Dloga: 0.00234169
+
+Begin Step 242, Time: 0.433447, Redshift: 1.30709, Systemstep: 0.00101381, Dloga: 0.00234169
+
+Begin Step 243, Time: 0.434464, Redshift: 1.30169, Systemstep: 0.00101619, Dloga: 0.00234169
+
+Begin Step 244, Time: 0.435482, Redshift: 1.29631, Systemstep: 0.00101857, Dloga: 0.00234169
+
+Begin Step 245, Time: 0.436503, Redshift: 1.29093, Systemstep: 0.00102096, Dloga: 0.00234169
+
+Begin Step 246, Time: 0.437526, Redshift: 1.28558, Systemstep: 0.00102335, Dloga: 0.00234169
+
+Begin Step 247, Time: 0.438552, Redshift: 1.28023, Systemstep: 0.00102575, Dloga: 0.00234169
+
+Begin Step 248, Time: 0.43958, Redshift: 1.2749, Systemstep: 0.00102816, Dloga: 0.00234169
+
+Begin Step 249, Time: 0.440611, Redshift: 1.26958, Systemstep: 0.00103057, Dloga: 0.00234169
+
+Begin Step 250, Time: 0.441644, Redshift: 1.26427, Systemstep: 0.00103299, Dloga: 0.00234169
+
+Begin Step 251, Time: 0.442679, Redshift: 1.25897, Systemstep: 0.00103541, Dloga: 0.00234169
+
+Begin Step 252, Time: 0.443717, Redshift: 1.25369, Systemstep: 0.00103783, Dloga: 0.00234169
+
+Begin Step 253, Time: 0.444757, Redshift: 1.24842, Systemstep: 0.00104027, Dloga: 0.00234169
+
+Begin Step 254, Time: 0.4458, Redshift: 1.24316, Systemstep: 0.00104271, Dloga: 0.00234169
+
+Begin Step 255, Time: 0.446845, Redshift: 1.23791, Systemstep: 0.00104515, Dloga: 0.00234169
+
+Begin Step 256, Time: 0.447893, Redshift: 1.23268, Systemstep: 0.0010476, Dloga: 0.00234169
+
+Begin Step 257, Time: 0.448943, Redshift: 1.22745, Systemstep: 0.00105006, Dloga: 0.00234169
+
+Begin Step 258, Time: 0.449995, Redshift: 1.22224, Systemstep: 0.00105252, Dloga: 0.00234169
+
+Begin Step 259, Time: 0.45105, Redshift: 1.21705, Systemstep: 0.00105499, Dloga: 0.00234169
+
+Begin Step 260, Time: 0.452108, Redshift: 1.21186, Systemstep: 0.00105746, Dloga: 0.00234169
+
+Begin Step 261, Time: 0.453168, Redshift: 1.20669, Systemstep: 0.00105994, Dloga: 0.00234169
+
+Begin Step 262, Time: 0.45423, Redshift: 1.20153, Systemstep: 0.00106242, Dloga: 0.00234169
+
+Begin Step 263, Time: 0.455295, Redshift: 1.19638, Systemstep: 0.00106491, Dloga: 0.00234169
+
+Begin Step 264, Time: 0.456363, Redshift: 1.19124, Systemstep: 0.00106741, Dloga: 0.00234169
+
+Begin Step 265, Time: 0.457432, Redshift: 1.18612, Systemstep: 0.00106991, Dloga: 0.00234169
+
+Begin Step 266, Time: 0.458505, Redshift: 1.181, Systemstep: 0.00107242, Dloga: 0.00234169
+
+Begin Step 267, Time: 0.45958, Redshift: 1.1759, Systemstep: 0.00107494, Dloga: 0.00234169
+
+Begin Step 268, Time: 0.460657, Redshift: 1.17081, Systemstep: 0.00107746, Dloga: 0.00234169
+
+Begin Step 269, Time: 0.461737, Redshift: 1.16573, Systemstep: 0.00107998, Dloga: 0.00234169
+
+Begin Step 270, Time: 0.46282, Redshift: 1.16067, Systemstep: 0.00108251, Dloga: 0.00234169
+
+Begin Step 271, Time: 0.463905, Redshift: 1.15561, Systemstep: 0.00108505, Dloga: 0.00234169
+
+Begin Step 272, Time: 0.464992, Redshift: 1.15057, Systemstep: 0.0010876, Dloga: 0.00234169
+
+Begin Step 273, Time: 0.466083, Redshift: 1.14554, Systemstep: 0.00109015, Dloga: 0.00234169
+
+Begin Step 274, Time: 0.467175, Redshift: 1.14052, Systemstep: 0.0010927, Dloga: 0.00234169
+
+Begin Step 275, Time: 0.468271, Redshift: 1.13552, Systemstep: 0.00109526, Dloga: 0.00234169
+
+Begin Step 276, Time: 0.469368, Redshift: 1.13052, Systemstep: 0.00109783, Dloga: 0.00234169
+
+Begin Step 277, Time: 0.470469, Redshift: 1.12554, Systemstep: 0.00110041, Dloga: 0.00234169
+
+Begin Step 278, Time: 0.471572, Redshift: 1.12057, Systemstep: 0.00110299, Dloga: 0.00234169
+
+Begin Step 279, Time: 0.472677, Redshift: 1.11561, Systemstep: 0.00110557, Dloga: 0.00234169
+
+Begin Step 280, Time: 0.473786, Redshift: 1.11066, Systemstep: 0.00110816, Dloga: 0.00234169
+
+Begin Step 281, Time: 0.474896, Redshift: 1.10572, Systemstep: 0.00111076, Dloga: 0.00234169
+
+Begin Step 282, Time: 0.47601, Redshift: 1.1008, Systemstep: 0.00111337, Dloga: 0.00234169
+
+Begin Step 283, Time: 0.477126, Redshift: 1.09588, Systemstep: 0.00111598, Dloga: 0.00234169
+
+Begin Step 284, Time: 0.478244, Redshift: 1.09098, Systemstep: 0.00111859, Dloga: 0.00234169
+
+Begin Step 285, Time: 0.479365, Redshift: 1.08609, Systemstep: 0.00112121, Dloga: 0.00234169
+
+Begin Step 286, Time: 0.480489, Redshift: 1.08121, Systemstep: 0.00112384, Dloga: 0.00234169
+
+Begin Step 287, Time: 0.481616, Redshift: 1.07634, Systemstep: 0.00112648, Dloga: 0.00234169
+
+Begin Step 288, Time: 0.482745, Redshift: 1.07149, Systemstep: 0.00112912, Dloga: 0.00234169
+
+Begin Step 289, Time: 0.483877, Redshift: 1.06664, Systemstep: 0.00113177, Dloga: 0.00234169
+
+Begin Step 290, Time: 0.485011, Redshift: 1.06181, Systemstep: 0.00113442, Dloga: 0.00234169
+
+Begin Step 291, Time: 0.486148, Redshift: 1.05699, Systemstep: 0.00113708, Dloga: 0.00234169
+
+Begin Step 292, Time: 0.487288, Redshift: 1.05218, Systemstep: 0.00113974, Dloga: 0.00234169
+
+Begin Step 293, Time: 0.48843, Redshift: 1.04738, Systemstep: 0.00114242, Dloga: 0.00234169
+
+Begin Step 294, Time: 0.489575, Redshift: 1.04259, Systemstep: 0.00114509, Dloga: 0.00234169
+
+Begin Step 295, Time: 0.490723, Redshift: 1.03781, Systemstep: 0.00114778, Dloga: 0.00234169
+
+Begin Step 296, Time: 0.491874, Redshift: 1.03304, Systemstep: 0.00115047, Dloga: 0.00234169
+
+Begin Step 297, Time: 0.493027, Redshift: 1.02829, Systemstep: 0.00115317, Dloga: 0.00234169
+
+Begin Step 298, Time: 0.494183, Redshift: 1.02354, Systemstep: 0.00115587, Dloga: 0.00234169
+
+Begin Step 299, Time: 0.495341, Redshift: 1.01881, Systemstep: 0.00115858, Dloga: 0.00234169
+
+Begin Step 300, Time: 0.496503, Redshift: 1.01409, Systemstep: 0.0011613, Dloga: 0.00234169
+
+Begin Step 301, Time: 0.497667, Redshift: 1.00938, Systemstep: 0.00116402, Dloga: 0.00234169
+
+Begin Step 302, Time: 0.498833, Redshift: 1.00468, Systemstep: 0.00116675, Dloga: 0.00234169
+
+Begin Step 303, Time: 0.500003, Redshift: 0.999989, Systemstep: 0.00116948, Dloga: 0.00234169
+
+Begin Step 304, Time: 0.501175, Redshift: 0.995311, Systemstep: 0.00117223, Dloga: 0.00234169
+
+Begin Step 305, Time: 0.50235, Redshift: 0.990644, Systemstep: 0.00117497, Dloga: 0.00234169
+
+Begin Step 306, Time: 0.503528, Redshift: 0.985988, Systemstep: 0.00117773, Dloga: 0.00234169
+
+Begin Step 307, Time: 0.504708, Redshift: 0.981343, Systemstep: 0.00118049, Dloga: 0.00234169
+
+Begin Step 308, Time: 0.505891, Redshift: 0.976709, Systemstep: 0.00118326, Dloga: 0.00234169
+
+Begin Step 309, Time: 0.507077, Redshift: 0.972085, Systemstep: 0.00118603, Dloga: 0.00234169
+
+Begin Step 310, Time: 0.508266, Redshift: 0.967473, Systemstep: 0.00118881, Dloga: 0.00234169
+
+Begin Step 311, Time: 0.509458, Redshift: 0.962871, Systemstep: 0.0011916, Dloga: 0.00234169
+
+Begin Step 312, Time: 0.510652, Redshift: 0.95828, Systemstep: 0.00119439, Dloga: 0.00234169
+
+Begin Step 313, Time: 0.511849, Redshift: 0.953699, Systemstep: 0.00119719, Dloga: 0.00234169
+
+Begin Step 314, Time: 0.513049, Redshift: 0.94913, Systemstep: 0.0012, Dloga: 0.00234169
+
+Begin Step 315, Time: 0.514252, Redshift: 0.944571, Systemstep: 0.00120281, Dloga: 0.00234169
+
+Begin Step 316, Time: 0.515458, Redshift: 0.940023, Systemstep: 0.00120563, Dloga: 0.00234169
+
+Begin Step 317, Time: 0.516666, Redshift: 0.935485, Systemstep: 0.00120846, Dloga: 0.00234169
+
+Begin Step 318, Time: 0.517878, Redshift: 0.930958, Systemstep: 0.00121129, Dloga: 0.00234169
+
+Begin Step 319, Time: 0.519092, Redshift: 0.926441, Systemstep: 0.00121413, Dloga: 0.00234169
+
+Begin Step 320, Time: 0.520309, Redshift: 0.921936, Systemstep: 0.00121698, Dloga: 0.00234169
+
+Begin Step 321, Time: 0.521529, Redshift: 0.91744, Systemstep: 0.00121983, Dloga: 0.00234169
+
+Begin Step 322, Time: 0.522751, Redshift: 0.912955, Systemstep: 0.00122269, Dloga: 0.00234169
+
+Begin Step 323, Time: 0.523977, Redshift: 0.908481, Systemstep: 0.00122556, Dloga: 0.00234169
+
+Begin Step 324, Time: 0.525205, Redshift: 0.904017, Systemstep: 0.00122843, Dloga: 0.00234169
+
+Begin Step 325, Time: 0.526437, Redshift: 0.899564, Systemstep: 0.00123131, Dloga: 0.00234169
+
+Begin Step 326, Time: 0.527671, Redshift: 0.895121, Systemstep: 0.0012342, Dloga: 0.00234169
+
+Begin Step 327, Time: 0.528908, Redshift: 0.890688, Systemstep: 0.00123709, Dloga: 0.00234169
+
+Begin Step 328, Time: 0.530148, Redshift: 0.886266, Systemstep: 0.00123999, Dloga: 0.00234169
+
+Begin Step 329, Time: 0.531391, Redshift: 0.881854, Systemstep: 0.0012429, Dloga: 0.00234169
+
+Begin Step 330, Time: 0.532637, Redshift: 0.877453, Systemstep: 0.00124581, Dloga: 0.00234169
+
+Begin Step 331, Time: 0.533885, Redshift: 0.873061, Systemstep: 0.00124873, Dloga: 0.00234169
+
+Begin Step 332, Time: 0.535137, Redshift: 0.86868, Systemstep: 0.00125166, Dloga: 0.00234169
+
+Begin Step 333, Time: 0.536392, Redshift: 0.86431, Systemstep: 0.0012546, Dloga: 0.00234169
+
+Begin Step 334, Time: 0.537649, Redshift: 0.859949, Systemstep: 0.00125754, Dloga: 0.00234169
+
+Begin Step 335, Time: 0.53891, Redshift: 0.855599, Systemstep: 0.00126049, Dloga: 0.00234169
+
+Begin Step 336, Time: 0.540173, Redshift: 0.851259, Systemstep: 0.00126344, Dloga: 0.00234169
+
+Begin Step 337, Time: 0.541439, Redshift: 0.846928, Systemstep: 0.0012664, Dloga: 0.00234169
+
+Begin Step 338, Time: 0.542709, Redshift: 0.842609, Systemstep: 0.00126937, Dloga: 0.00234169
+
+Begin Step 339, Time: 0.543981, Redshift: 0.838299, Systemstep: 0.00127235, Dloga: 0.00234169
+
+Begin Step 340, Time: 0.545257, Redshift: 0.833999, Systemstep: 0.00127533, Dloga: 0.00234169
+
+Begin Step 341, Time: 0.546535, Redshift: 0.829709, Systemstep: 0.00127832, Dloga: 0.00234169
+
+Begin Step 342, Time: 0.547816, Redshift: 0.82543, Systemstep: 0.00128132, Dloga: 0.00234169
+
+Begin Step 343, Time: 0.5491, Redshift: 0.82116, Systemstep: 0.00128432, Dloga: 0.00234169
+
+Begin Step 344, Time: 0.550388, Redshift: 0.816901, Systemstep: 0.00128733, Dloga: 0.00234169
+
+Begin Step 345, Time: 0.551678, Redshift: 0.812651, Systemstep: 0.00129035, Dloga: 0.00234169
+
+Begin Step 346, Time: 0.552972, Redshift: 0.808411, Systemstep: 0.00129338, Dloga: 0.00234169
+
+Begin Step 347, Time: 0.554268, Redshift: 0.804182, Systemstep: 0.00129641, Dloga: 0.00234169
+
+Begin Step 348, Time: 0.555567, Redshift: 0.799962, Systemstep: 0.00129945, Dloga: 0.00234169
+
+Begin Step 349, Time: 0.55687, Redshift: 0.795752, Systemstep: 0.00130249, Dloga: 0.00234169
+
+Begin Step 350, Time: 0.558175, Redshift: 0.791551, Systemstep: 0.00130555, Dloga: 0.00234169
+
+Begin Step 351, Time: 0.559484, Redshift: 0.787361, Systemstep: 0.00130861, Dloga: 0.00234169
+
+Begin Step 352, Time: 0.560796, Redshift: 0.78318, Systemstep: 0.00131168, Dloga: 0.00234169
+
+Begin Step 353, Time: 0.56211, Redshift: 0.77901, Systemstep: 0.00131475, Dloga: 0.00234169
+
+Begin Step 354, Time: 0.563428, Redshift: 0.774849, Systemstep: 0.00131783, Dloga: 0.00234169
+
+Begin Step 355, Time: 0.564749, Redshift: 0.770697, Systemstep: 0.00132092, Dloga: 0.00234169
+
+Begin Step 356, Time: 0.566073, Redshift: 0.766556, Systemstep: 0.00132402, Dloga: 0.00234169
+
+Begin Step 357, Time: 0.5674, Redshift: 0.762424, Systemstep: 0.00132712, Dloga: 0.00234169
+
+Begin Step 358, Time: 0.568731, Redshift: 0.758302, Systemstep: 0.00133024, Dloga: 0.00234169
+
+Begin Step 359, Time: 0.570064, Redshift: 0.754189, Systemstep: 0.00133335, Dloga: 0.00234169
+
+Begin Step 360, Time: 0.5714, Redshift: 0.750086, Systemstep: 0.00133648, Dloga: 0.00234169
+
+Begin Step 361, Time: 0.57274, Redshift: 0.745993, Systemstep: 0.00133961, Dloga: 0.00234169
+
+Begin Step 362, Time: 0.574083, Redshift: 0.741909, Systemstep: 0.00134275, Dloga: 0.00234169
+
+Begin Step 363, Time: 0.575429, Redshift: 0.737835, Systemstep: 0.0013459, Dloga: 0.00234169
+
+Begin Step 364, Time: 0.576778, Redshift: 0.73377, Systemstep: 0.00134906, Dloga: 0.00234169
+
+Begin Step 365, Time: 0.57813, Redshift: 0.729715, Systemstep: 0.00135222, Dloga: 0.00234169
+
+Begin Step 366, Time: 0.579485, Redshift: 0.725669, Systemstep: 0.00135539, Dloga: 0.00234169
+
+Begin Step 367, Time: 0.580844, Redshift: 0.721633, Systemstep: 0.00135857, Dloga: 0.00234169
+
+Begin Step 368, Time: 0.582206, Redshift: 0.717606, Systemstep: 0.00136175, Dloga: 0.00234169
+
+Begin Step 369, Time: 0.583571, Redshift: 0.713589, Systemstep: 0.00136495, Dloga: 0.00234169
+
+Begin Step 370, Time: 0.584939, Redshift: 0.709581, Systemstep: 0.00136815, Dloga: 0.00234169
+
+Begin Step 371, Time: 0.58631, Redshift: 0.705582, Systemstep: 0.00137135, Dloga: 0.00234169
+
+Begin Step 372, Time: 0.587685, Redshift: 0.701593, Systemstep: 0.00137457, Dloga: 0.00234169
+
+Begin Step 373, Time: 0.589063, Redshift: 0.697613, Systemstep: 0.00137779, Dloga: 0.00234169
+
+Begin Step 374, Time: 0.590444, Redshift: 0.693642, Systemstep: 0.00138102, Dloga: 0.00234169
+
+Begin Step 375, Time: 0.591828, Redshift: 0.689681, Systemstep: 0.00138426, Dloga: 0.00234169
+
+Begin Step 376, Time: 0.593215, Redshift: 0.685729, Systemstep: 0.0013875, Dloga: 0.00234169
+
+Begin Step 377, Time: 0.594606, Redshift: 0.681786, Systemstep: 0.00139076, Dloga: 0.00234169
+
+Begin Step 378, Time: 0.596, Redshift: 0.677852, Systemstep: 0.00139402, Dloga: 0.00234169
+
+Begin Step 379, Time: 0.597397, Redshift: 0.673928, Systemstep: 0.00139729, Dloga: 0.00234169
+
+Begin Step 380, Time: 0.598798, Redshift: 0.670013, Systemstep: 0.00140056, Dloga: 0.00234169
+
+Begin Step 381, Time: 0.600202, Redshift: 0.666106, Systemstep: 0.00140384, Dloga: 0.00234169
+
+Begin Step 382, Time: 0.601609, Redshift: 0.662209, Systemstep: 0.00140714, Dloga: 0.00234169
+
+Begin Step 383, Time: 0.603019, Redshift: 0.658322, Systemstep: 0.00141044, Dloga: 0.00234169
+
+Begin Step 384, Time: 0.604433, Redshift: 0.654443, Systemstep: 0.00141374, Dloga: 0.00234169
+
+Begin Step 385, Time: 0.60585, Redshift: 0.650573, Systemstep: 0.00141706, Dloga: 0.00234169
+
+Begin Step 386, Time: 0.607271, Redshift: 0.646713, Systemstep: 0.00142038, Dloga: 0.00234169
+
+Begin Step 387, Time: 0.608694, Redshift: 0.642861, Systemstep: 0.00142371, Dloga: 0.00234169
+
+Begin Step 388, Time: 0.610121, Redshift: 0.639018, Systemstep: 0.00142705, Dloga: 0.00234169
+
+Begin Step 389, Time: 0.611552, Redshift: 0.635185, Systemstep: 0.00143039, Dloga: 0.00234169
+
+Begin Step 390, Time: 0.612985, Redshift: 0.63136, Systemstep: 0.00143375, Dloga: 0.00234169
+
+Begin Step 391, Time: 0.614422, Redshift: 0.627545, Systemstep: 0.00143711, Dloga: 0.00234169
+
+Begin Step 392, Time: 0.615863, Redshift: 0.623738, Systemstep: 0.00144048, Dloga: 0.00234169
+
+Begin Step 393, Time: 0.617307, Redshift: 0.61994, Systemstep: 0.00144385, Dloga: 0.00234169
+
+Begin Step 394, Time: 0.618754, Redshift: 0.616151, Systemstep: 0.00144724, Dloga: 0.00234169
+
+Begin Step 395, Time: 0.620205, Redshift: 0.612371, Systemstep: 0.00145063, Dloga: 0.00234169
+
+Begin Step 396, Time: 0.621659, Redshift: 0.6086, Systemstep: 0.00145403, Dloga: 0.00234169
+
+Begin Step 397, Time: 0.623116, Redshift: 0.604837, Systemstep: 0.00145744, Dloga: 0.00234169
+
+Begin Step 398, Time: 0.624577, Redshift: 0.601084, Systemstep: 0.00146086, Dloga: 0.00234169
+
+Begin Step 399, Time: 0.626041, Redshift: 0.597339, Systemstep: 0.00146428, Dloga: 0.00234169
+
+Begin Step 400, Time: 0.627509, Redshift: 0.593603, Systemstep: 0.00146772, Dloga: 0.00234169
+
+Begin Step 401, Time: 0.62898, Redshift: 0.589875, Systemstep: 0.00147116, Dloga: 0.00234169
+
+Begin Step 402, Time: 0.630455, Redshift: 0.586157, Systemstep: 0.00147461, Dloga: 0.00234169
+
+Begin Step 403, Time: 0.631933, Redshift: 0.582447, Systemstep: 0.00147806, Dloga: 0.00234169
+
+Begin Step 404, Time: 0.633414, Redshift: 0.578745, Systemstep: 0.00148153, Dloga: 0.00234169
+
+Begin Step 405, Time: 0.634899, Redshift: 0.575053, Systemstep: 0.001485, Dloga: 0.00234169
+
+Begin Step 406, Time: 0.636388, Redshift: 0.571369, Systemstep: 0.00148848, Dloga: 0.00234169
+
+Begin Step 407, Time: 0.63788, Redshift: 0.567693, Systemstep: 0.00149197, Dloga: 0.00234169
+
+Begin Step 408, Time: 0.639375, Redshift: 0.564027, Systemstep: 0.00149547, Dloga: 0.00234169
+
+Begin Step 409, Time: 0.640874, Redshift: 0.560368, Systemstep: 0.00149898, Dloga: 0.00234169
+
+Begin Step 410, Time: 0.642377, Redshift: 0.556719, Systemstep: 0.00150249, Dloga: 0.00234169
+
+Begin Step 411, Time: 0.643883, Redshift: 0.553078, Systemstep: 0.00150601, Dloga: 0.00234169
+
+Begin Step 412, Time: 0.645392, Redshift: 0.549445, Systemstep: 0.00150954, Dloga: 0.00234169
+
+Begin Step 413, Time: 0.646905, Redshift: 0.545821, Systemstep: 0.00151308, Dloga: 0.00234169
+
+Begin Step 414, Time: 0.648422, Redshift: 0.542205, Systemstep: 0.00151663, Dloga: 0.00234169
+
+Begin Step 415, Time: 0.649942, Redshift: 0.538598, Systemstep: 0.00152019, Dloga: 0.00234169
+
+Begin Step 416, Time: 0.651466, Redshift: 0.535, Systemstep: 0.00152375, Dloga: 0.00234169
+
+Begin Step 417, Time: 0.652993, Redshift: 0.531409, Systemstep: 0.00152732, Dloga: 0.00234169
+
+Begin Step 418, Time: 0.654524, Redshift: 0.527827, Systemstep: 0.0015309, Dloga: 0.00234169
+
+Begin Step 419, Time: 0.656059, Redshift: 0.524254, Systemstep: 0.00153449, Dloga: 0.00234169
+
+Begin Step 420, Time: 0.657597, Redshift: 0.520689, Systemstep: 0.00153809, Dloga: 0.00234169
+
+Begin Step 421, Time: 0.659138, Redshift: 0.517132, Systemstep: 0.0015417, Dloga: 0.00234169
+
+Begin Step 422, Time: 0.660684, Redshift: 0.513583, Systemstep: 0.00154531, Dloga: 0.00234169
+
+Begin Step 423, Time: 0.662233, Redshift: 0.510043, Systemstep: 0.00154893, Dloga: 0.00234169
+
+Begin Step 424, Time: 0.663785, Redshift: 0.506511, Systemstep: 0.00155256, Dloga: 0.00234169
+
+Begin Step 425, Time: 0.665341, Redshift: 0.502988, Systemstep: 0.0015562, Dloga: 0.00234169
+
+Begin Step 426, Time: 0.666901, Redshift: 0.499472, Systemstep: 0.00155985, Dloga: 0.00234169
+
+Begin Step 427, Time: 0.668465, Redshift: 0.495965, Systemstep: 0.00156351, Dloga: 0.00234169
+
+Begin Step 428, Time: 0.670032, Redshift: 0.492466, Systemstep: 0.00156717, Dloga: 0.00234169
+
+Begin Step 429, Time: 0.671603, Redshift: 0.488975, Systemstep: 0.00157085, Dloga: 0.00234169
+
+Begin Step 430, Time: 0.673177, Redshift: 0.485493, Systemstep: 0.00157453, Dloga: 0.00234169
+
+Begin Step 431, Time: 0.674756, Redshift: 0.482018, Systemstep: 0.00157822, Dloga: 0.00234169
+
+Begin Step 432, Time: 0.676338, Redshift: 0.478552, Systemstep: 0.00158192, Dloga: 0.00234169
+
+Begin Step 433, Time: 0.67713, Redshift: 0.476822, Systemstep: 0.000792352, Dloga: 0.00117085
+
+Begin Step 434, Time: 0.677923, Redshift: 0.475093, Systemstep: 0.00079328, Dloga: 0.00117085
+
+Begin Step 435, Time: 0.678717, Redshift: 0.473367, Systemstep: 0.000794209, Dloga: 0.00117085
+
+Begin Step 436, Time: 0.679513, Redshift: 0.471643, Systemstep: 0.00079514, Dloga: 0.00117085
+
+Begin Step 437, Time: 0.680309, Redshift: 0.469921, Systemstep: 0.000796071, Dloga: 0.00117085
+
+Begin Step 438, Time: 0.681106, Redshift: 0.468201, Systemstep: 0.000797004, Dloga: 0.00117085
+
+Begin Step 439, Time: 0.681904, Redshift: 0.466483, Systemstep: 0.000797938, Dloga: 0.00117085
+
+Begin Step 440, Time: 0.682702, Redshift: 0.464767, Systemstep: 0.000798873, Dloga: 0.00117085
+
+Begin Step 441, Time: 0.683502, Redshift: 0.463053, Systemstep: 0.000799808, Dloga: 0.00117085
+
+Begin Step 442, Time: 0.684303, Redshift: 0.461341, Systemstep: 0.000800745, Dloga: 0.00117085
+
+Begin Step 443, Time: 0.685105, Redshift: 0.459631, Systemstep: 0.000801684, Dloga: 0.00117085
+
+Begin Step 444, Time: 0.685907, Redshift: 0.457923, Systemstep: 0.000802623, Dloga: 0.00117085
+
+Begin Step 445, Time: 0.687515, Redshift: 0.454513, Systemstep: 0.00160807, Dloga: 0.00234169
+
+Begin Step 446, Time: 0.689127, Redshift: 0.451111, Systemstep: 0.00161184, Dloga: 0.00234169
+
+Begin Step 447, Time: 0.690743, Redshift: 0.447717, Systemstep: 0.00161562, Dloga: 0.00234169
+
+Begin Step 448, Time: 0.692362, Redshift: 0.444331, Systemstep: 0.0016194, Dloga: 0.00234169
+
+Begin Step 449, Time: 0.693985, Redshift: 0.440953, Systemstep: 0.0016232, Dloga: 0.00234169
+
+Begin Step 450, Time: 0.695612, Redshift: 0.437582, Systemstep: 0.00162701, Dloga: 0.00234169
+
+Begin Step 451, Time: 0.697243, Redshift: 0.43422, Systemstep: 0.00163082, Dloga: 0.00234169
+
+Begin Step 452, Time: 0.698878, Redshift: 0.430865, Systemstep: 0.00163464, Dloga: 0.00234169
+
+Begin Step 453, Time: 0.700516, Redshift: 0.427518, Systemstep: 0.00163848, Dloga: 0.00234169
+
+Begin Step 454, Time: 0.701337, Redshift: 0.425848, Systemstep: 0.000820678, Dloga: 0.00117085
+
+Begin Step 455, Time: 0.702159, Redshift: 0.42418, Systemstep: 0.000821639, Dloga: 0.00117085
+
+Begin Step 456, Time: 0.703805, Redshift: 0.420848, Systemstep: 0.00164617, Dloga: 0.00234169
+
+Begin Step 457, Time: 0.705455, Redshift: 0.417525, Systemstep: 0.00165003, Dloga: 0.00234169
+
+Begin Step 458, Time: 0.707109, Redshift: 0.41421, Systemstep: 0.0016539, Dloga: 0.00234169
+
+Begin Step 459, Time: 0.708767, Redshift: 0.410902, Systemstep: 0.00165777, Dloga: 0.00234169
+
+Begin Step 460, Time: 0.710428, Redshift: 0.407602, Systemstep: 0.00166166, Dloga: 0.00234169
+
+Begin Step 461, Time: 0.712094, Redshift: 0.404309, Systemstep: 0.00166556, Dloga: 0.00234169
+
+Begin Step 462, Time: 0.713763, Redshift: 0.401025, Systemstep: 0.00166946, Dloga: 0.00234169
+
+Begin Step 463, Time: 0.715437, Redshift: 0.397748, Systemstep: 0.00167337, Dloga: 0.00234169
+
+Begin Step 464, Time: 0.717114, Redshift: 0.394479, Systemstep: 0.0016773, Dloga: 0.00234169
+
+Begin Step 465, Time: 0.718795, Redshift: 0.391217, Systemstep: 0.00168123, Dloga: 0.00234169
+
+Begin Step 466, Time: 0.72048, Redshift: 0.387963, Systemstep: 0.00168517, Dloga: 0.00234169
+
+Begin Step 467, Time: 0.722169, Redshift: 0.384717, Systemstep: 0.00168912, Dloga: 0.00234169
+
+Begin Step 468, Time: 0.723862, Redshift: 0.381478, Systemstep: 0.00169308, Dloga: 0.00234169
+
+Begin Step 469, Time: 0.72556, Redshift: 0.378247, Systemstep: 0.00169705, Dloga: 0.00234169
+
+Begin Step 470, Time: 0.727261, Redshift: 0.375023, Systemstep: 0.00170103, Dloga: 0.00234169
+
+Begin Step 471, Time: 0.728966, Redshift: 0.371807, Systemstep: 0.00170502, Dloga: 0.00234169
+
+Begin Step 472, Time: 0.730675, Redshift: 0.368598, Systemstep: 0.00170901, Dloga: 0.00234169
+
+Begin Step 473, Time: 0.732388, Redshift: 0.365397, Systemstep: 0.00171302, Dloga: 0.00234169
+
+Begin Step 474, Time: 0.734105, Redshift: 0.362204, Systemstep: 0.00171704, Dloga: 0.00234169
+
+Begin Step 475, Time: 0.735826, Redshift: 0.359017, Systemstep: 0.00172106, Dloga: 0.00234169
+
+Begin Step 476, Time: 0.737551, Redshift: 0.355839, Systemstep: 0.0017251, Dloga: 0.00234169
+
+Begin Step 477, Time: 0.73928, Redshift: 0.352668, Systemstep: 0.00172914, Dloga: 0.00234169
+
+Begin Step 478, Time: 0.741013, Redshift: 0.349504, Systemstep: 0.0017332, Dloga: 0.00234169
+
+Begin Step 479, Time: 0.74275, Redshift: 0.346347, Systemstep: 0.00173726, Dloga: 0.00234169
+
+Begin Step 480, Time: 0.744492, Redshift: 0.343198, Systemstep: 0.00174133, Dloga: 0.00234169
+
+Begin Step 481, Time: 0.746237, Redshift: 0.340057, Systemstep: 0.00174542, Dloga: 0.00234169
+
+Begin Step 482, Time: 0.747987, Redshift: 0.336922, Systemstep: 0.00174951, Dloga: 0.00234169
+
+Begin Step 483, Time: 0.74974, Redshift: 0.333795, Systemstep: 0.00175361, Dloga: 0.00234169
+
+Begin Step 484, Time: 0.751498, Redshift: 0.330676, Systemstep: 0.00175772, Dloga: 0.00234169
+
+Begin Step 485, Time: 0.75326, Redshift: 0.327563, Systemstep: 0.00176184, Dloga: 0.00234169
+
+Begin Step 486, Time: 0.755026, Redshift: 0.324458, Systemstep: 0.00176597, Dloga: 0.00234169
+
+Begin Step 487, Time: 0.756796, Redshift: 0.32136, Systemstep: 0.00177011, Dloga: 0.00234169
+
+Begin Step 488, Time: 0.75857, Redshift: 0.31827, Systemstep: 0.00177426, Dloga: 0.00234169
+
+Begin Step 489, Time: 0.760349, Redshift: 0.315186, Systemstep: 0.00177842, Dloga: 0.00234169
+
+Begin Step 490, Time: 0.762131, Redshift: 0.31211, Systemstep: 0.00178259, Dloga: 0.00234169
+
+Begin Step 491, Time: 0.763918, Redshift: 0.309041, Systemstep: 0.00178677, Dloga: 0.00234169
+
+Begin Step 492, Time: 0.765709, Redshift: 0.305979, Systemstep: 0.00179096, Dloga: 0.00234169
+
+Begin Step 493, Time: 0.767504, Redshift: 0.302925, Systemstep: 0.00179516, Dloga: 0.00234169
+
+Begin Step 494, Time: 0.769303, Redshift: 0.299877, Systemstep: 0.00179937, Dloga: 0.00234169
+
+Begin Step 495, Time: 0.771107, Redshift: 0.296837, Systemstep: 0.00180358, Dloga: 0.00234169
+
+Begin Step 496, Time: 0.772915, Redshift: 0.293804, Systemstep: 0.00180781, Dloga: 0.00234169
+
+Begin Step 497, Time: 0.774727, Redshift: 0.290777, Systemstep: 0.00181205, Dloga: 0.00234169
+
+Begin Step 498, Time: 0.776543, Redshift: 0.287758, Systemstep: 0.0018163, Dloga: 0.00234169
+
+Begin Step 499, Time: 0.778364, Redshift: 0.284746, Systemstep: 0.00182056, Dloga: 0.00234169
+
+Begin Step 500, Time: 0.780189, Redshift: 0.281741, Systemstep: 0.00182483, Dloga: 0.00234169
+
+Begin Step 501, Time: 0.782018, Redshift: 0.278743, Systemstep: 0.0018291, Dloga: 0.00234169
+
+Begin Step 502, Time: 0.783851, Redshift: 0.275753, Systemstep: 0.00183339, Dloga: 0.00234169
+
+Begin Step 503, Time: 0.785689, Redshift: 0.272769, Systemstep: 0.00183769, Dloga: 0.00234169
+
+Begin Step 504, Time: 0.787531, Redshift: 0.269792, Systemstep: 0.001842, Dloga: 0.00234169
+
+Begin Step 505, Time: 0.789377, Redshift: 0.266822, Systemstep: 0.00184632, Dloga: 0.00234169
+
+Begin Step 506, Time: 0.791228, Redshift: 0.263859, Systemstep: 0.00185065, Dloga: 0.00234169
+
+Begin Step 507, Time: 0.793083, Redshift: 0.260903, Systemstep: 0.00185498, Dloga: 0.00234169
+
+Begin Step 508, Time: 0.794942, Redshift: 0.257953, Systemstep: 0.00185933, Dloga: 0.00234169
+
+Begin Step 509, Time: 0.796806, Redshift: 0.255011, Systemstep: 0.00186369, Dloga: 0.00234169
+
+Begin Step 510, Time: 0.798674, Redshift: 0.252076, Systemstep: 0.00186806, Dloga: 0.00234169
+
+Begin Step 511, Time: 0.800546, Redshift: 0.249147, Systemstep: 0.00187244, Dloga: 0.00234169
+
+Begin Step 512, Time: 0.802423, Redshift: 0.246225, Systemstep: 0.00187683, Dloga: 0.00234169
+
+Begin Step 513, Time: 0.804304, Redshift: 0.243311, Systemstep: 0.00188123, Dloga: 0.00234169
+
+Begin Step 514, Time: 0.80619, Redshift: 0.240402, Systemstep: 0.00188564, Dloga: 0.00234169
+
+Begin Step 515, Time: 0.80808, Redshift: 0.237501, Systemstep: 0.00189006, Dloga: 0.00234169
+
+Begin Step 516, Time: 0.809974, Redshift: 0.234607, Systemstep: 0.00189449, Dloga: 0.00234169
+
+Begin Step 517, Time: 0.811873, Redshift: 0.231719, Systemstep: 0.00189894, Dloga: 0.00234169
+
+Begin Step 518, Time: 0.813777, Redshift: 0.228838, Systemstep: 0.00190339, Dloga: 0.00234169
+
+Begin Step 519, Time: 0.815685, Redshift: 0.225964, Systemstep: 0.00190785, Dloga: 0.00234169
+
+Begin Step 520, Time: 0.817597, Redshift: 0.223096, Systemstep: 0.00191232, Dloga: 0.00234169
+
+Begin Step 521, Time: 0.819514, Redshift: 0.220236, Systemstep: 0.00191681, Dloga: 0.00234169
+
+Begin Step 522, Time: 0.821435, Redshift: 0.217382, Systemstep: 0.0019213, Dloga: 0.00234169
+
+Begin Step 523, Time: 0.823361, Redshift: 0.214534, Systemstep: 0.0019258, Dloga: 0.00234169
+
+Begin Step 524, Time: 0.825291, Redshift: 0.211693, Systemstep: 0.00193032, Dloga: 0.00234169
+
+Begin Step 525, Time: 0.827226, Redshift: 0.208859, Systemstep: 0.00193484, Dloga: 0.00234169
+
+Begin Step 526, Time: 0.829165, Redshift: 0.206032, Systemstep: 0.00193938, Dloga: 0.00234169
+
+Begin Step 527, Time: 0.831109, Redshift: 0.203211, Systemstep: 0.00194393, Dloga: 0.00234169
+
+Begin Step 528, Time: 0.833058, Redshift: 0.200397, Systemstep: 0.00194848, Dloga: 0.00234169
+
+Begin Step 529, Time: 0.835011, Redshift: 0.197589, Systemstep: 0.00195305, Dloga: 0.00234169
+
+Begin Step 530, Time: 0.836969, Redshift: 0.194788, Systemstep: 0.00195763, Dloga: 0.00234169
+
+Begin Step 531, Time: 0.838931, Redshift: 0.191993, Systemstep: 0.00196222, Dloga: 0.00234169
+
+Begin Step 532, Time: 0.840898, Redshift: 0.189205, Systemstep: 0.00196682, Dloga: 0.00234169
+
+Begin Step 533, Time: 0.842869, Redshift: 0.186424, Systemstep: 0.00197143, Dloga: 0.00234169
+
+Begin Step 534, Time: 0.844845, Redshift: 0.183649, Systemstep: 0.00197605, Dloga: 0.00234169
+
+Begin Step 535, Time: 0.846826, Redshift: 0.18088, Systemstep: 0.00198069, Dloga: 0.00234169
+
+Begin Step 536, Time: 0.848811, Redshift: 0.178118, Systemstep: 0.00198533, Dloga: 0.00234169
+
+Begin Step 537, Time: 0.850801, Redshift: 0.175363, Systemstep: 0.00198999, Dloga: 0.00234169
+
+Begin Step 538, Time: 0.852796, Redshift: 0.172614, Systemstep: 0.00199465, Dloga: 0.00234169
+
+Begin Step 539, Time: 0.854795, Redshift: 0.169871, Systemstep: 0.00199933, Dloga: 0.00234169
+
+Begin Step 540, Time: 0.856799, Redshift: 0.167135, Systemstep: 0.00200401, Dloga: 0.00234169
+
+Begin Step 541, Time: 0.858808, Redshift: 0.164405, Systemstep: 0.00200871, Dloga: 0.00234169
+
+Begin Step 542, Time: 0.860821, Redshift: 0.161681, Systemstep: 0.00201342, Dloga: 0.00234169
+
+Begin Step 543, Time: 0.862839, Redshift: 0.158964, Systemstep: 0.00201814, Dloga: 0.00234169
+
+Begin Step 544, Time: 0.864862, Redshift: 0.156254, Systemstep: 0.00202287, Dloga: 0.00234169
+
+Begin Step 545, Time: 0.86689, Redshift: 0.153549, Systemstep: 0.00202762, Dloga: 0.00234169
+
+Begin Step 546, Time: 0.868922, Redshift: 0.150851, Systemstep: 0.00203237, Dloga: 0.00234169
+
+Begin Step 547, Time: 0.870959, Redshift: 0.148159, Systemstep: 0.00203713, Dloga: 0.00234169
+
+Begin Step 548, Time: 0.873001, Redshift: 0.145474, Systemstep: 0.00204191, Dloga: 0.00234169
+
+Begin Step 549, Time: 0.875048, Redshift: 0.142795, Systemstep: 0.0020467, Dloga: 0.00234169
+
+Begin Step 550, Time: 0.877099, Redshift: 0.140122, Systemstep: 0.0020515, Dloga: 0.00234169
+
+Begin Step 551, Time: 0.879156, Redshift: 0.137455, Systemstep: 0.00205631, Dloga: 0.00234169
+
+Begin Step 552, Time: 0.881217, Redshift: 0.134794, Systemstep: 0.00206113, Dloga: 0.00234169
+
+Begin Step 553, Time: 0.883283, Redshift: 0.13214, Systemstep: 0.00206596, Dloga: 0.00234169
+
+Begin Step 554, Time: 0.885354, Redshift: 0.129492, Systemstep: 0.0020708, Dloga: 0.00234169
+
+Begin Step 555, Time: 0.887429, Redshift: 0.12685, Systemstep: 0.00207566, Dloga: 0.00234169
+
+Begin Step 556, Time: 0.88951, Redshift: 0.124215, Systemstep: 0.00208052, Dloga: 0.00234169
+
+Begin Step 557, Time: 0.891595, Redshift: 0.121585, Systemstep: 0.0020854, Dloga: 0.00234169
+
+Begin Step 558, Time: 0.893686, Redshift: 0.118962, Systemstep: 0.00209029, Dloga: 0.00234169
+
+Begin Step 559, Time: 0.895781, Redshift: 0.116345, Systemstep: 0.00209519, Dloga: 0.00234169
+
+Begin Step 560, Time: 0.897881, Redshift: 0.113734, Systemstep: 0.0021001, Dloga: 0.00234169
+
+Begin Step 561, Time: 0.899986, Redshift: 0.111129, Systemstep: 0.00210503, Dloga: 0.00234169
+
+Begin Step 562, Time: 0.902096, Redshift: 0.10853, Systemstep: 0.00210996, Dloga: 0.00234169
+
+Begin Step 563, Time: 0.904211, Redshift: 0.105937, Systemstep: 0.00211491, Dloga: 0.00234169
+
+Begin Step 564, Time: 0.906331, Redshift: 0.10335, Systemstep: 0.00211987, Dloga: 0.00234169
+
+Begin Step 565, Time: 0.908455, Redshift: 0.100769, Systemstep: 0.00212484, Dloga: 0.00234169
+
+Begin Step 566, Time: 0.910585, Redshift: 0.0981948, Systemstep: 0.00212982, Dloga: 0.00234169
+
+Begin Step 567, Time: 0.91272, Redshift: 0.0956262, Systemstep: 0.00213481, Dloga: 0.00234169
+
+Begin Step 568, Time: 0.91486, Redshift: 0.0930636, Systemstep: 0.00213982, Dloga: 0.00234169
+
+Begin Step 569, Time: 0.917005, Redshift: 0.090507, Systemstep: 0.00214483, Dloga: 0.00234169
+
+Begin Step 570, Time: 0.919155, Redshift: 0.0879563, Systemstep: 0.00214986, Dloga: 0.00234169
+
+Begin Step 571, Time: 0.921309, Redshift: 0.0854116, Systemstep: 0.0021549, Dloga: 0.00234169
+
+Begin Step 572, Time: 0.923469, Redshift: 0.0828729, Systemstep: 0.00215995, Dloga: 0.00234169
+
+Begin Step 573, Time: 0.925634, Redshift: 0.0803401, Systemstep: 0.00216502, Dloga: 0.00234169
+
+Begin Step 574, Time: 0.927805, Redshift: 0.0778133, Systemstep: 0.00217009, Dloga: 0.00234169
+
+Begin Step 575, Time: 0.92998, Redshift: 0.0752923, Systemstep: 0.00217518, Dloga: 0.00234169
+
+Begin Step 576, Time: 0.93216, Redshift: 0.0727772, Systemstep: 0.00218028, Dloga: 0.00234169
+
+Begin Step 577, Time: 0.934345, Redshift: 0.0702681, Systemstep: 0.00218539, Dloga: 0.00234169
+
+Begin Step 578, Time: 0.936536, Redshift: 0.0677648, Systemstep: 0.00219052, Dloga: 0.00234169
+
+Begin Step 579, Time: 0.938732, Redshift: 0.0652673, Systemstep: 0.00219565, Dloga: 0.00234169
+
+Begin Step 580, Time: 0.940932, Redshift: 0.0627757, Systemstep: 0.0022008, Dloga: 0.00234169
+
+Begin Step 581, Time: 0.943138, Redshift: 0.0602899, Systemstep: 0.00220596, Dloga: 0.00234169
+
+Begin Step 582, Time: 0.945349, Redshift: 0.0578099, Systemstep: 0.00221113, Dloga: 0.00234169
+
+Begin Step 583, Time: 0.947566, Redshift: 0.0553358, Systemstep: 0.00221631, Dloga: 0.00234169
+
+Begin Step 584, Time: 0.949787, Redshift: 0.0528674, Systemstep: 0.00222151, Dloga: 0.00234169
+
+Begin Step 585, Time: 0.952014, Redshift: 0.0504048, Systemstep: 0.00222672, Dloga: 0.00234169
+
+Begin Step 586, Time: 0.954246, Redshift: 0.0479479, Systemstep: 0.00223194, Dloga: 0.00234169
+
+Begin Step 587, Time: 0.956483, Redshift: 0.0454968, Systemstep: 0.00223717, Dloga: 0.00234169
+
+Begin Step 588, Time: 0.958725, Redshift: 0.0430514, Systemstep: 0.00224242, Dloga: 0.00234169
+
+Begin Step 589, Time: 0.960973, Redshift: 0.0406118, Systemstep: 0.00224767, Dloga: 0.00234169
+
+Begin Step 590, Time: 0.963226, Redshift: 0.0381779, Systemstep: 0.00225294, Dloga: 0.00234169
+
+Begin Step 591, Time: 0.965484, Redshift: 0.0357496, Systemstep: 0.00225822, Dloga: 0.00234169
+
+Begin Step 592, Time: 0.967748, Redshift: 0.033327, Systemstep: 0.00226352, Dloga: 0.00234169
+
+Begin Step 593, Time: 0.970017, Redshift: 0.0309101, Systemstep: 0.00226883, Dloga: 0.00234169
+
+Begin Step 594, Time: 0.972291, Redshift: 0.0284989, Systemstep: 0.00227414, Dloga: 0.00234169
+
+Begin Step 595, Time: 0.97457, Redshift: 0.0260933, Systemstep: 0.00227948, Dloga: 0.00234169
+
+Begin Step 596, Time: 0.976855, Redshift: 0.0236933, Systemstep: 0.00228482, Dloga: 0.00234169
+
+Begin Step 597, Time: 0.979145, Redshift: 0.0212989, Systemstep: 0.00229018, Dloga: 0.00234169
+
+Begin Step 598, Time: 0.981441, Redshift: 0.0189101, Systemstep: 0.00229555, Dloga: 0.00234169
+
+Begin Step 599, Time: 0.983742, Redshift: 0.0165269, Systemstep: 0.00230093, Dloga: 0.00234169
+
+Begin Step 600, Time: 0.986048, Redshift: 0.0141493, Systemstep: 0.00230632, Dloga: 0.00234169
+
+Begin Step 601, Time: 0.98836, Redshift: 0.0117773, Systemstep: 0.00231173, Dloga: 0.00234169
+
+Begin Step 602, Time: 0.990677, Redshift: 0.00941078, Systemstep: 0.00231715, Dloga: 0.00234169
+
+Begin Step 603, Time: 0.993, Redshift: 0.00704982, Systemstep: 0.00232258, Dloga: 0.00234169
+
+Begin Step 604, Time: 0.995328, Redshift: 0.00469437, Systemstep: 0.00232803, Dloga: 0.00234169
+
+Begin Step 605, Time: 0.997661, Redshift: 0.00234444, Systemstep: 0.00233348, Dloga: 0.00234169
+
+Begin Step 606, Time: 1, Redshift: 0, Systemstep: 0.00233895, Dloga: 0.00234169

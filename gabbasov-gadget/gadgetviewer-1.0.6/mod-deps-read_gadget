@@ -1,0 +1,10 @@
+read_gadget_definitions.o : 	read_gadget_definitions.F90
+
+read_gadget_binary2.o : 	read_gadget_binary2.f90 read_gadget_definitions.o
+
+read_gadget_binary1.o : 	read_gadget_binary1.f90 read_gadget_definitions.o
+
+read_gadget_hdf5.o : 	read_gadget_hdf5.F90 read_gadget_definitions.o
+
+read_gadget.o : 	read_gadget.F90 read_gadget_binary1.o read_gadget_binary2.o read_gadget_hdf5.o read_gadget_definitions.o
+
